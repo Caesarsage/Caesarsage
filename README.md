@@ -6,7 +6,7 @@
 
 ## I'm a Student, Learner, Full Stack Developer, and Teacher!!
 
-- 🔭 
+- 🔭 The Sky ain't the limit :relieved:
 - 🌱 I’m currently learning python4Algorithm & Everything about React 🤣
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2021 Goals: Maintain a consistent blog on hashcode
@@ -68,9 +68,12 @@
   <img alt="Caesarsage's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Caesarsage&show_icons=true&hide_border=true&theme=radical" />
   
 <details>
+ <summary>
+ :zap: Git Top Language Used
+ </summary>
   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caesarsage&layout=compact&theme=radical"> 
+ </details>
 
-</details>
 
 [twitter]: https://twitter.com/caesar_sage
 [facebook]: https://facebook.com/erhabor.destinyendurance/
