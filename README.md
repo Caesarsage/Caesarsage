@@ -4,7 +4,6 @@
 
 ## I'm a Student, Learner, Full Stack Developer, and Teacher!!
 
-- 🔭 
 - 🌱 I’m currently learning python4Algorithm & Everything about React 🤣
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2021 Goals: Maintain a consistent blog on hashcode
@@ -16,9 +15,9 @@
 
 ### Connect with me:
 
-[<img align="left"  background="white"  alt="Caesarsage | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Caesarsage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Caesarsage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left"  "style"="background:'white'"  alt="Caesarsage | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" "style"="background:'white'"  alt="Caesarsage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" "style"="background:'white'"  alt="Caesarsage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -65,12 +64,10 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <strong>:zap: GitHub Stats</strong>
 
   <img alt="Caesarsage's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Caesarsage&show_icons=true&hide_border=true&theme=radical" />
 
-</details>
 
 <details>
 
