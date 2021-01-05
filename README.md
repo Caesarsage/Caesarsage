@@ -54,14 +54,7 @@
 
 ---
 
-<div>
-  <strong>:zap: Recent GitHub Activity</strong>
-  
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
-</div>
 <div>
   <strong>:zap: GitHub Stats</strong>
 
