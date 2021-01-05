@@ -14,11 +14,11 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
-
-[<img align="left"  background-color="white"  alt="Caesarsage | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" background-color="white"  alt="Caesarsage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" background-color="white"  alt="Caesarsage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-
+<div style="background-color:'white';">
+[<img align="left"  alt="Caesarsage | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left"  alt="Caesarsage | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  alt="Caesarsage | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+</div>
 <br />
 
 ### Languages and Tools:
@@ -75,5 +75,5 @@
 </details>
 
 [twitter]: https://twitter.com/caesar_sage
-[facebook]: https://instagram.com/Caesarsage
+[facebook]: https://facebook.com/destinyerhabor
 [linkedin]: https://linkedin.com/in/destiny-erhabor
