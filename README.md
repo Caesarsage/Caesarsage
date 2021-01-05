@@ -18,10 +18,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Caesarsage | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Caesarsage | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Caesarsage | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Caesarsage | Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" />][twitter]
+[<img align="left" alt="Caesarsage | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Caesarsage | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 
+<br />
+<br />
 <br />
 
 ### Languages and Tools:
