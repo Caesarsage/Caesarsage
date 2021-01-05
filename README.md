@@ -55,14 +55,19 @@
 ---
 
 
-<div>
+  <strong>:zap: Recent GitHub Activity</strong>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
   <strong>:zap: GitHub Stats</strong>
 
   <img alt="Caesarsage's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Caesarsage&show_icons=true&hide_border=true&theme=radical" />
-  kk
-</div>
+  
 <details>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesarsage&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caesarsage&layout=compact&theme=radical"> 
+
 </details>
 
 [twitter]: https://twitter.com/caesar_sage
