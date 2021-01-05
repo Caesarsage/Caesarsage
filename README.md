@@ -1,6 +1,6 @@
 ### Hi there, I'm Destiny Erhabor - aka Caesarsage 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Caesarsage?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCaesarsage&screen_name=Caesarsage)
+[![Twitter Follow](https://img.shields.io/twitter/follow/caesar_sage?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCaesarsage&screen_name=caesar_sage)
 
 ## I'm a Student, Learner, Full Stack Developer, and Teacher!!
 
