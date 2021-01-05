@@ -59,11 +59,10 @@
   <strong>:zap: GitHub Stats</strong>
 
   <img alt="Caesarsage's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Caesarsage&show_icons=true&hide_border=true&theme=radical" />
+  kk
 </div>
 <details>
-  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caesarsage&layout=compact&theme=radical"> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesarsage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesarsage&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [twitter]: https://twitter.com/caesar_sage
