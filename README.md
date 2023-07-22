@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p> I am a cloud and software Engineer that is really passionate about Web technologies, cloud Engineering and the DevOps principles. And i also run a blog that advises and publishes best practices around web technologies and How to's on basic cloud tools.
+<p> I am a cloud and software Engineer that is passionate about Web technologies, cloud Engineering and the DevOps principles. And i also run a blog that advises and publishes best practices around web technologies and How to's on basic cloud tools.
 </>
 
 Check out my latest articles here;
