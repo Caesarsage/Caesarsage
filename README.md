@@ -1,9 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p> I am a cloud and software Engineer that is passionate about Web technologies, cloud Engineering and the DevOps principles. And i also run a blog that advises and publishes best practices around web technologies and How to's on basic cloud tools.
+<p> My Name is Destiny Erhabor. I am DevOps and Full Stack Software Engineer. I combine my knowledge of software and cloud to build reliable and resilient products and infrastructure that can solve problems. And i also run a blog that advises and publishes best practices around web technologies and How to's on basic cloud tools.
 </>
 
 Check out my latest articles here;
+
+🎯 [Empowering Startups: Introductory guide to databricks](https://techcommunity.microsoft.com/t5/educator-developer-blog/empowering-startups-the-introductory-guide-to-databricks-for/ba-p/3934092)
+
+
+🎯 [What and how to contribute to open source](https://www.freecodecamp.org/news/what-is-open-source-software/)
 
 🎯 [What is JavaScript- Beginner Overview](https://caesarsage.hashnode.dev/what-is-javascript-a-beginner-overview)
 
@@ -13,19 +18,24 @@ Check out my latest articles here;
 
 🎯 [Learn Infrastructure as a code by  build a machine image on AWS with Terraform](https://freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/)
 
-🎯 [What and how to contribute to open source](https://www.freecodecamp.org/news/what-is-open-source-software/)
-
 🎯 [How to use ExpressJS Router Middleware](https://caesarsage.hashnode.dev/how-to-use-expressjs-router-middleware)
+
+... Read more about my articles on
+- [Microsoft Educator's Blog](
+https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1095113#profile)
+- [Aviator Blog](https://www.aviator.co/blog/author/destinyerhabor/)
+- [Freecodecamp](https://www.freecodecamp.org/news/author/caesarsage/)
+- [Hashnode](https://caesarsage.hashnode.dev/)
 
 More facts about me 🤗👇
 
 - 🌱 I’m currently learning Advance Backend Practice and Data Structures 
-- 👯 I’m looking to collaborate on projects, any thing Backed web development, Cloud and DevOps related, stuff that can create value for the society and also Opensource too!.
+- 👯 I’m contributing to OSS and looking to collaborate on projects, any thing Backed web development, Cloud and DevOps related, stuff that can create value for the society and also Opensource too!.
 - 💬 Ask me about: Web Development, DSA, Cloud tools or implementation, Automation, Infrastructure 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cool music, anime, writing and traveling 
 
-## Tools stack
+## Languages & Tools stack
 ![](https://img.shields.io/badge/JavaScript-JS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Typescript-TS-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
