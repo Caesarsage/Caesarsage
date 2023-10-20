@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p> My Name is Destiny Erhabor. I am DevOps and Full Stack Software Engineer. I combine my knowledge of software and cloud to build reliable and resilient products and infrastructure that can solve problems. And i also run a blog that advises and publishes best practices around web technologies and How to's on basic cloud tools.
+<p> My name is Destiny Erhabor. I am a DevOps and full-stack software engineer. I combine my knowledge of software and the cloud to build reliable and resilient products and infrastructure that can solve problems. I also run a blog that advises and publishes best practices around web technologies and How-to's on basic cloud tools.
 </>
 
-Check out my latest articles here;
+Check out my latest articles here:
 
 🎯 [Empowering Startups: Introductory guide to databricks](https://techcommunity.microsoft.com/t5/educator-developer-blog/empowering-startups-the-introductory-guide-to-databricks-for/ba-p/3934092)
 
@@ -30,7 +30,7 @@ https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1095113#prof
 More facts about me 🤗👇
 
 - 🌱 I’m currently learning Advance Backend Practice and Data Structures 
-- 👯 I’m contributing to OSS and looking to collaborate on projects, any thing Backed web development, Cloud and DevOps related, stuff that can create value for the society and also Opensource too!.
+- 👯 I’m contributing to OSS and looking to collaborate on projects related to backed web development, cloud computing, and DevOps—stuff that can create value for society—and also open source!
 - 💬 Ask me about: Web Development, DSA, Cloud tools or implementation, Automation, Infrastructure 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cool music, anime, writing and traveling 
