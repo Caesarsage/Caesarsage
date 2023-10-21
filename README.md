@@ -5,7 +5,7 @@
 
 Check out my latest articles here:
 
-🎯 [Empowering Startups: Introductory guide to databricks](https://techcommunity.microsoft.com/t5/educator-developer-blog/empowering-startups-the-introductory-guide-to-databricks-for/ba-p/3934092)
+🎯 [Empowering Startups: Introductory guide to databricks](https://techcommunity.microsoft.com/t5/educator-developer-blog/empowering-startups-the-introductory-guide-to-databricks-for/ba-p/3934092?wt.mc_id=studentamb_24964)
 
 
 🎯 [What and how to contribute to open source](https://www.freecodecamp.org/news/what-is-open-source-software/)
