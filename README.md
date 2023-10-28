@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p> My name is Destiny Erhabor. I am a DevOps and full-stack software engineer. I combine my knowledge of software and the cloud to build reliable and resilient products and infrastructure that can solve problems. I also run a blog that advises and publishes best practices around web technologies and How-to's on basic cloud tools.
 </>
