@@ -20,7 +20,8 @@ Check out my latest articles here:
 
 🎯 [How to use ExpressJS Router Middleware](https://caesarsage.hashnode.dev/how-to-use-expressjs-router-middleware)
 
-... Read more about my articles on
+... Read more of my articles on
+
 - [Microsoft Educator's Blog](
 https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1095113#profile)
 - [Aviator Blog](https://www.aviator.co/blog/author/destinyerhabor/)
