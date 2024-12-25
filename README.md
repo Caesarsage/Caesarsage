@@ -70,10 +70,3 @@ More facts about me 🤗👇
   <a href="https://www.linkedin.com/in/destiny-erhabor/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
   <a href="mailto:destinyerhabor6@gmail.com@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
-
-<p align="Center">
- <strong>:zap: GitHub Stats</strong>
-
-  <img alt="Caesarsage's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Caesarsage&show_icons=true&hide_border=true&theme=radical" />
-
-</p>
