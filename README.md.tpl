@@ -60,14 +60,6 @@ Say Hello, I don't bite!
 - Linkedin: https://www.linkedin.com/in/destiny-erhabor/
 - Email: mailto:destinyerhabor6@gmail.com
 
-{{!--
-<p>
-  <a href="https://x.com/caesar_sage"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://www.linkedin.com/in/destiny-erhabor/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
-  <a href="mailto:destinyerhabor6@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-</p> --}}
-
-
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
