@@ -2,13 +2,6 @@
 
 My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expertise and an Opensource Contributor to Kubernetes, Microcks and more.
 
-More facts about me 🤗👇
-
-- 🌱 I’m currently learning Advance Backend Practice and Data Structures
-- 👯 I’m contributing to OSS and looking to collaborate on projects related to backed web development, cloud computing, and DevOps—stuff that can create value for society—and also open source!
-- 💬 Ask me about: Web Development, DSA, Cloud tools or implementation, Automation, Infrastructure
-- 😄 Pronouns: he/him
-
 #### 👷 Check out what I'm currently working on
 
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (3 days ago)
