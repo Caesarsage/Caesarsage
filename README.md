@@ -27,7 +27,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [Caesarsage/multi-cloud-file-uploader](https://github.com/Caesarsage/multi-cloud-file-uploader) - A multi cloud file uploader interactive bash script.
 - [Caesarsage/aws-amplify-talk-demo](https://github.com/Caesarsage/aws-amplify-talk-demo) - A react demo with amplify presented at university of Ilorin AWS Cloud Club Symposium
 - [Caesarsage/video-conf-application](https://github.com/Caesarsage/video-conf-application) - Video conferencing app with Golang, WebRTC , WebSocket and Fiber
-- [Caesarsage/generate-tests-gh-pages](https://github.com/Caesarsage/generate-tests-gh-pages) - 
+- [Caesarsage/go-bank-demo](https://github.com/Caesarsage/go-bank-demo) - A Golang Simple Bank API with Authentication and Postgress DB and no ORM
 
 #### 🔭 Latest releases I've contributed to
 
