@@ -2,6 +2,13 @@
 
 My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expertise and an Opensource Contributor to Kubernetes, Microcks and more.
 
+More facts about me 🤗👇
+
+- 🌱 I’m currently learning Advance Backend Practice and Data Structures
+- 👯 I’m contributing to OSS and looking to collaborate on projects related to backed web development, cloud computing, and DevOps—stuff that can create value for society—and also open source!
+- 💬 Ask me about: Web Development, DSA, Cloud tools or implementation, Automation, Infrastructure
+- 😄 Pronouns: he/him
+
 #### 👷 Check out what I'm currently working on
 
 {{range recentContributions 10}}
@@ -37,18 +44,11 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 {{- end}}
 
 **Microsoft Educator Blog**
-[How to Deploy and Monitor Web Applications on Azure App Service](https://techcommunity.microsoft.com/blog/educatordeveloperblog/how-to-deploy-and-monitor-web-applications-on-azure-app-service/3960676)
-[Empowering Startups: The Introductory Guide to Databricks for Entrepreneur's Data-Driven Success](https://techcommunity.microsoft.com/blog/educatordeveloperblog/empowering-startups-the-introductory-guide-to-databricks-for-entrepreneurs-data-/3934092)
+- [How to Deploy and Monitor Web Applications on Azure App Service](https://techcommunity.microsoft.com/blog/educatordeveloperblog/how-to-deploy-and-monitor-web-applications-on-azure-app-service/3960676)
+- [Empowering Startups: The Introductory Guide to Databricks for Entrepreneur's Data-Driven Success](https://techcommunity.microsoft.com/blog/educatordeveloperblog/empowering-startups-the-introductory-guide-to-databricks-for-entrepreneurs-data-/3934092)
 
 **Hashnode**
-{{range rss "https://caesarsage.hashnode.dev/rss.xml" 3}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-#### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+[My Posts on Hashnode](https://caesarsage.hashnode.dev/)
 
 #### 💬 Feedback
 
