@@ -40,7 +40,6 @@ Kubernetes website and documentation repo:
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: reduce cognitive complexity and simplify control flow in SpanFilterUtil for sonarqube errors](https://github.com/microcks/microcks/pull/1840) on [microcks/microcks](https://github.com/microcks/microcks) (3 days ago)
 
 #### 📜 My recent blog posts
 
