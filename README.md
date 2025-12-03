@@ -5,8 +5,9 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
+- [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (today)
+- [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (today)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (5 days ago)
-- [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (6 days ago)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 week ago)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (1 week ago)
 - [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
@@ -14,10 +15,10 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (3 months ago)
 - [Caesarsage/gitops-manifests](https://github.com/Caesarsage/gitops-manifests) - GitOps with Kubernetes Guide - Beginner-Friendly (6 months ago)
 - [Caesarsage/cicd-demo](https://github.com/Caesarsage/cicd-demo) - Setting Up a CI/CD Pipeline with GitHub Actions (7 months ago)
-- [Caesarsage/git-github-class-nexacale](https://github.com/Caesarsage/git-github-class-nexacale) - Git and GitHub introductory class notes for NexaScale DevSecOp Bootcamp student (9 months ago)
 
 #### 🌱 My latest projects
 
+- [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references
 - [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices.
 - [Caesarsage/gitops-manifests](https://github.com/Caesarsage/gitops-manifests) - GitOps with Kubernetes Guide - Beginner-Friendly
@@ -27,7 +28,6 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [Caesarsage/multi-cloud-file-uploader](https://github.com/Caesarsage/multi-cloud-file-uploader) - A multi cloud file uploader interactive bash script.
 - [Caesarsage/aws-amplify-talk-demo](https://github.com/Caesarsage/aws-amplify-talk-demo) - A react demo with amplify presented at university of Ilorin AWS Cloud Club Symposium
 - [Caesarsage/video-conf-application](https://github.com/Caesarsage/video-conf-application) - Video conferencing app with Golang, WebRTC , WebSocket and Fiber
-- [Caesarsage/go-bank-demo](https://github.com/Caesarsage/go-bank-demo) - A Golang Simple Bank API with Authentication and Postgress DB and no ORM
 
 #### 🔭 Latest releases I've contributed to
 
