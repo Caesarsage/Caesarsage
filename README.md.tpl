@@ -9,7 +9,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
