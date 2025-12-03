@@ -4,6 +4,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 👷 Check out what I'm currently working on
 
+
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (5 days ago)
 - [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (6 days ago)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 week ago)
@@ -39,6 +40,7 @@ Kubernetes website and documentation repo:
 
 #### 🔨 My recent Pull Requests
 
+- [ Fix SonarQube code smells - add private constructor and reduce regex complexity](https://github.com/microcks/microcks/pull/1847) on [microcks/microcks](https://github.com/microcks/microcks) (today)
 
 #### 📜 My recent blog posts
 
