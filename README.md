@@ -23,11 +23,6 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices.
 - [Caesarsage/gitops-manifests](https://github.com/Caesarsage/gitops-manifests) - GitOps with Kubernetes Guide - Beginner-Friendly
 - [Caesarsage/cicd-demo](https://github.com/Caesarsage/cicd-demo) - Setting Up a CI/CD Pipeline with GitHub Actions
-- [Caesarsage/git-github-class-nexacale](https://github.com/Caesarsage/git-github-class-nexacale) - Git and GitHub introductory class notes for NexaScale DevSecOp Bootcamp student
-- [Caesarsage/aws-multipart-uploads-react-node](https://github.com/Caesarsage/aws-multipart-uploads-react-node) - This project demonstrates a robust implementation of file uploads using React for the frontend, Node.js for the backend, and AWS S3 for storing files via multipart uploads. The application allows users to securely upload large files, leveraging AWS S3&#39;s capabilities for efficient storage and retrieval.
-- [Caesarsage/multi-cloud-file-uploader](https://github.com/Caesarsage/multi-cloud-file-uploader) - A multi cloud file uploader interactive bash script.
-- [Caesarsage/aws-amplify-talk-demo](https://github.com/Caesarsage/aws-amplify-talk-demo) - A react demo with amplify presented at university of Ilorin AWS Cloud Club Symposium
-- [Caesarsage/video-conf-application](https://github.com/Caesarsage/video-conf-application) - Video conferencing app with Golang, WebRTC , WebSocket and Fiber
 
 #### 🔭 Latest releases I've contributed to
 
