@@ -5,9 +5,9 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (today)
-- [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (today)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (5 days ago)
+- [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (1 day ago)
+- [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (1 day ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (6 days ago)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 week ago)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (1 week ago)
 - [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
@@ -26,7 +26,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 5 days ago) -
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 6 days ago) -
 Simple CLI for interacting with Microcks test APIs
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.37.0](https://github.com/kubernetes/minikube/releases/tag/v1.37.0), 2 months ago) -
 Run Kubernetes locally
@@ -35,7 +35,7 @@ Kubernetes website and documentation repo:
 
 #### 🔨 My recent Pull Requests
 
-- [ Fix SonarQube code smells - add private constructor and reduce regex complexity](https://github.com/microcks/microcks/pull/1847) on [microcks/microcks](https://github.com/microcks/microcks) (today)
+- [ Fix SonarQube code smells - add private constructor and reduce regex complexity](https://github.com/microcks/microcks/pull/1847) on [microcks/microcks](https://github.com/microcks/microcks) (1 day ago)
 
 #### 📜 My recent blog posts
 
