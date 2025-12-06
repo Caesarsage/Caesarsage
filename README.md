@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expertise and an Opensource Contributor to Kubernetes, Microcks and more.
+My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expertise and an Opensource Contributor to Kubernetes, Microcks and more
 
 #### 👷 Check out what I'm currently working on
 
