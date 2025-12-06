@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expertise and an Opensource Contributor to Kubernetes, Microcks and more
+My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expertise and an Opensource Contributor to Kubernetes, Microcks and more.
 
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (2 days ago)
-- [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (2 days ago)
+- [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (3 days ago)
+- [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (3 days ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 week ago)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (1 week ago)
-- [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
+- [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (2 months ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 months ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (3 months ago)
 - [Caesarsage/gitops-manifests](https://github.com/Caesarsage/gitops-manifests) - GitOps with Kubernetes Guide - Beginner-Friendly (6 months ago)
@@ -35,14 +35,15 @@ Kubernetes website and documentation repo:
 
 #### 🔨 My recent Pull Requests
 
-- [ Fix SonarQube code smells - add private constructor and reduce regex complexity](https://github.com/microcks/microcks/pull/1847) on [microcks/microcks](https://github.com/microcks/microcks) (2 days ago)
+- [Automate KubeCon event listings ](https://github.com/kubernetes/website/pull/53519) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [ Fix SonarQube code smells - add private constructor and reduce regex complexity](https://github.com/microcks/microcks/pull/1847) on [microcks/microcks](https://github.com/microcks/microcks) (3 days ago)
 
 #### 📜 My recent blog posts
 
 **FreeCodeCamp**
 
 - [ How to Create Kubernetes Cluster and Security Groups for Pods in AWS [Full Handbook] ](https://www.freecodecamp.org/news/how-to-create-kubernetes-cluster-and-security-groups-for-pods-in-aws-handbook/) (1 month ago)
-- [ Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques ](https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/) (1 month ago)
+- [ Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques ](https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/) (2 months ago)
 - [ Kubernetes Networking Tutorial: A Guide for Developers ](https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/) (5 months ago)
 - [ How to Send and Parse JSON Data in Golang – Data Encoding and Decoding Explained With Examples ](https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/) (1 year ago)
 - [ ​​How to Upload Large Files Efficiently with AWS S3 Multipart Upload ](https://www.freecodecamp.org/news/upload-large-files-with-aws/) (1 year ago)
