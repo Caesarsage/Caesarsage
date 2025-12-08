@@ -6,6 +6,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 day ago)
+- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (3 days ago)
 - [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (5 days ago)
 - [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (5 days ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
@@ -14,7 +15,6 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 months ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (3 months ago)
 - [Caesarsage/gitops-manifests](https://github.com/Caesarsage/gitops-manifests) - GitOps with Kubernetes Guide - Beginner-Friendly (6 months ago)
-- [Caesarsage/cicd-demo](https://github.com/Caesarsage/cicd-demo) - Setting Up a CI/CD Pipeline with GitHub Actions (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 1 week ago) -
 Simple CLI for interacting with Microcks test APIs
+- [microcks/microcks](https://github.com/microcks/microcks) ([1.13.0](https://github.com/microcks/microcks/releases/tag/1.13.0), 1 month ago) -
+The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.37.0](https://github.com/kubernetes/minikube/releases/tag/v1.37.0), 3 months ago) -
 Run Kubernetes locally
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.34](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.34), 3 months ago) -
