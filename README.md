@@ -5,12 +5,12 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/vertex-ai-firebase](https://github.com/Caesarsage/vertex-ai-firebase) - A full-stack AI chat application built with **Google Cloud&#39;s Vertex AI**, **Firebase**, and **Terraform**. This project demonstrates how to build a modern AI-powered web application with authentication, rate limiting, conversation persistence, and scalable  infrastructure for my Devfest workshop. (today)
-- [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (3 days ago)
-- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (6 days ago)
+- [Caesarsage/vertex-ai-firebase](https://github.com/Caesarsage/vertex-ai-firebase) - A full-stack AI chat application built with **Google Cloud&#39;s Vertex AI**, **Firebase**, and **Terraform**. This project demonstrates how to build a modern AI-powered web application with authentication, rate limiting, conversation persistence, and scalable  infrastructure for my Devfest workshop. (1 day ago)
+- [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (4 days ago)
+- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (1 week ago)
 - [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (1 week ago)
 - [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (1 week ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (2 weeks ago)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (2 weeks ago)
 - [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (2 months ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 months ago)
@@ -26,9 +26,9 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
-- [microcks/microcks](https://github.com/microcks/microcks) ([1.13.1](https://github.com/microcks/microcks/releases/tag/1.13.1), 3 days ago) -
+- [microcks/microcks](https://github.com/microcks/microcks) ([1.13.1](https://github.com/microcks/microcks/releases/tag/1.13.1), 4 days ago) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 1 week ago) -
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 2 weeks ago) -
 Simple CLI for interacting with Microcks test APIs
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.37.0](https://github.com/kubernetes/minikube/releases/tag/v1.37.0), 3 months ago) -
 Run Kubernetes locally
@@ -37,7 +37,7 @@ Kubernetes website and documentation repo:
 
 #### 🔨 My recent Pull Requests
 
-- [Automate KubeCon event listings ](https://github.com/kubernetes/website/pull/53519) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
+- [Automate KubeCon event listings ](https://github.com/kubernetes/website/pull/53519) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
 - [ Fix SonarQube code smells - add private constructor and reduce regex complexity](https://github.com/microcks/microcks/pull/1847) on [microcks/microcks](https://github.com/microcks/microcks) (1 week ago)
 
 #### 📜 My recent blog posts
