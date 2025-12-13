@@ -37,8 +37,8 @@ Kubernetes website and documentation repo:
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add netlify.toml to enable deploy previews for PRs](https://github.com/microcks/microcks.io/pull/475) on [microcks/microcks.io](https://github.com/microcks/microcks.io) (today)
 - [Automate KubeCon event listings ](https://github.com/kubernetes/website/pull/53519) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-- [ Fix SonarQube code smells - add private constructor and reduce regex complexity](https://github.com/microcks/microcks/pull/1847) on [microcks/microcks](https://github.com/microcks/microcks) (1 week ago)
 
 #### 📜 My recent blog posts
 
