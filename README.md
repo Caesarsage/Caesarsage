@@ -38,7 +38,6 @@ Kubernetes website and documentation repo:
 #### 🔨 My recent Pull Requests
 
 - [feat: Add netlify.toml to enable deploy previews for PRs](https://github.com/microcks/microcks.io/pull/475) on [microcks/microcks.io](https://github.com/microcks/microcks.io) (2 days ago)
-- [Automate KubeCon event listings ](https://github.com/kubernetes/website/pull/53519) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
 #### 📜 My recent blog posts
 
