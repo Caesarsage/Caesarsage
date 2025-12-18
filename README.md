@@ -5,10 +5,10 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (today)
-- [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (2 days ago)
-- [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (5 days ago)
-- [Caesarsage/vertex-ai-firebase](https://github.com/Caesarsage/vertex-ai-firebase) - A full-stack AI chat application built with **Google Cloud&#39;s Vertex AI**, **Firebase**, and **Terraform**. This project demonstrates how to build a modern AI-powered web application with authentication, rate limiting, conversation persistence, and scalable  infrastructure for my Devfest workshop. (6 days ago)
+- [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (1 day ago)
+- [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (3 days ago)
+- [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (6 days ago)
+- [Caesarsage/vertex-ai-firebase](https://github.com/Caesarsage/vertex-ai-firebase) - A full-stack AI chat application built with **Google Cloud&#39;s Vertex AI**, **Firebase**, and **Terraform**. This project demonstrates how to build a modern AI-powered web application with authentication, rate limiting, conversation persistence, and scalable  infrastructure for my Devfest workshop. (1 week ago)
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (1 week ago)
 - [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (2 weeks ago)
 - [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (2 weeks ago)
@@ -26,7 +26,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.35](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.35), today) -
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.35](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.35), 1 day ago) -
 Kubernetes website and documentation repo: 
 - [microcks/microcks](https://github.com/microcks/microcks) ([1.13.1](https://github.com/microcks/microcks/releases/tag/1.13.1), 1 week ago) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
@@ -37,8 +37,8 @@ Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
-- [feat: kubernete deployment for three-tier app](https://github.com/Caesarsage/k8-task-manager/pull/1) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (today)
-- [feat: Add netlify.toml to enable deploy previews for PRs](https://github.com/microcks/microcks.io/pull/475) on [microcks/microcks.io](https://github.com/microcks/microcks.io) (4 days ago)
+- [feat: kubernete deployment for three-tier app](https://github.com/Caesarsage/k8-task-manager/pull/1) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (1 day ago)
+- [feat: Add netlify.toml to enable deploy previews for PRs](https://github.com/microcks/microcks.io/pull/475) on [microcks/microcks.io](https://github.com/microcks/microcks.io) (5 days ago)
 
 #### 📜 My recent blog posts
 
