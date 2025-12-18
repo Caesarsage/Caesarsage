@@ -5,7 +5,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (1 day ago)
+- [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (today)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (3 days ago)
 - [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (6 days ago)
 - [Caesarsage/vertex-ai-firebase](https://github.com/Caesarsage/vertex-ai-firebase) - A full-stack AI chat application built with **Google Cloud&#39;s Vertex AI**, **Firebase**, and **Terraform**. This project demonstrates how to build a modern AI-powered web application with authentication, rate limiting, conversation persistence, and scalable  infrastructure for my Devfest workshop. (1 week ago)
@@ -18,11 +18,11 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🌱 My latest projects
 
+- [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A complete digital banking platform with modern microservices architecture
 - [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete
 - [Caesarsage/vertex-ai-firebase](https://github.com/Caesarsage/vertex-ai-firebase) - A full-stack AI chat application built with **Google Cloud&#39;s Vertex AI**, **Firebase**, and **Terraform**. This project demonstrates how to build a modern AI-powered web application with authentication, rate limiting, conversation persistence, and scalable  infrastructure for my Devfest workshop.
 - [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references
-- [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,6 +37,8 @@ Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
+- [add image to readme docs](https://github.com/Caesarsage/k8-task-manager/pull/3) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (today)
+- [feat: added pv, network policy, init container and statefulset](https://github.com/Caesarsage/k8-task-manager/pull/2) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (today)
 - [feat: kubernete deployment for three-tier app](https://github.com/Caesarsage/k8-task-manager/pull/1) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (1 day ago)
 - [feat: Add netlify.toml to enable deploy previews for PRs](https://github.com/microcks/microcks.io/pull/475) on [microcks/microcks.io](https://github.com/microcks/microcks.io) (5 days ago)
 
