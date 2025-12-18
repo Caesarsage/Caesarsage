@@ -49,8 +49,8 @@ Say Hello, I don't bite!
 
 More facts about me 🤗👇
 
-- 🌱 I’m currently learning Advance Backend Practice and Data Structures
-- 👯 I’m contributing to OSS and looking to collaborate on projects related to backed web development, cloud computing, and DevOps—stuff that can create value for society—and also open source!
+- 🌱 I’m currently learning Advance Backend Practice, Distributed systems, Data Structure and algorithms
+- 👯 I’m contributing to OSS and looking to collaborate on projects related to backed web development, cloud computing, and DevOps—stuff that is creating or can create value for the society!
 - 💬 Ask me about: Web Development, DSA, Cloud tools or implementation, Automation, Infrastructure
 - 😄 Pronouns: he/him
 
