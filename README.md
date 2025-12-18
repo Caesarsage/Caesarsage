@@ -37,6 +37,7 @@ Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
+- [generated api reference for 1.35 release](https://github.com/kubernetes/website/pull/53693) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [add image to readme docs](https://github.com/Caesarsage/k8-task-manager/pull/3) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (today)
 - [feat: added pv, network policy, init container and statefulset](https://github.com/Caesarsage/k8-task-manager/pull/2) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (today)
 - [feat: kubernete deployment for three-tier app](https://github.com/Caesarsage/k8-task-manager/pull/1) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (1 day ago)
@@ -71,8 +72,8 @@ Say Hello, I don't bite!
 
 More facts about me 🤗👇
 
-- 🌱 I’m currently learning Advance Backend Practice and Data Structures
-- 👯 I’m contributing to OSS and looking to collaborate on projects related to backed web development, cloud computing, and DevOps—stuff that can create value for society—and also open source!
+- 🌱 I’m currently learning Advance Backend Practice, Distributed systems, Data Structure and algorithms
+- 👯 I’m contributing to OSS and looking to collaborate on projects related to backed web development, cloud computing, and DevOps—stuff that is creating or can create value for the society!
 - 💬 Ask me about: Web Development, DSA, Cloud tools or implementation, Automation, Infrastructure
 - 😄 Pronouns: he/him
 
