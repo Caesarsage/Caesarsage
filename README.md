@@ -5,7 +5,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (1 day ago)
+- [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (today)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 days ago)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (5 days ago)
 - [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (1 week ago)
@@ -37,6 +37,7 @@ Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
+- [feat: added security to pod to run as non user](https://github.com/Caesarsage/k8-task-manager/pull/7) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (today)
 - [feat: added overlay patches and fix duplicate kustomize template issue](https://github.com/Caesarsage/k8-task-manager/pull/6) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (1 day ago)
 - [feat: structure k8 folder and update readme &amp; note](https://github.com/Caesarsage/k8-task-manager/pull/5) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (1 day ago)
 - [Dev](https://github.com/Caesarsage/k8-task-manager/pull/4) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (1 day ago)
