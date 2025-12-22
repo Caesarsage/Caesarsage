@@ -37,6 +37,8 @@ Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
+- [Update navbar from docs to documentation](https://github.com/Caesarsage/microcks.io/pull/2) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (today)
+- [Add netlify.toml to enable deploy previews for PRs](https://github.com/Caesarsage/microcks.io/pull/1) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (today)
 - [update docs and fix workflow txt](https://github.com/Caesarsage/OSS-Contribution-Beginer/pull/20) on [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) (1 day ago)
 - [feat: added security to pod to run as non user](https://github.com/Caesarsage/k8-task-manager/pull/7) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (2 days ago)
 - [feat: added overlay patches and fix duplicate kustomize template issue](https://github.com/Caesarsage/k8-task-manager/pull/6) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (3 days ago)
@@ -45,7 +47,6 @@ Run Kubernetes locally
 - [generated api reference for 1.35 release](https://github.com/kubernetes/website/pull/53693) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
 - [add image to readme docs](https://github.com/Caesarsage/k8-task-manager/pull/3) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (4 days ago)
 - [feat: added pv, network policy, init container and statefulset](https://github.com/Caesarsage/k8-task-manager/pull/2) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (4 days ago)
-- [feat: kubernete deployment for three-tier app](https://github.com/Caesarsage/k8-task-manager/pull/1) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (5 days ago)
 
 #### 📜 My recent blog posts
 
