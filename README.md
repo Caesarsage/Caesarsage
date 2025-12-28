@@ -5,8 +5,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (today)
-- [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (6 days ago)
+- [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (1 day ago)
+- [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (1 week ago)
 - [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 week ago)
@@ -14,7 +14,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (3 weeks ago)
 - [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (3 weeks ago)
 - [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (3 weeks ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (4 weeks ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -30,17 +30,17 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 Kubernetes website and documentation repo: 
 - [microcks/microcks](https://github.com/microcks/microcks) ([1.13.1](https://github.com/microcks/microcks/releases/tag/1.13.1), 2 weeks ago) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 4 weeks ago) -
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 1 month ago) -
 Simple CLI for interacting with Microcks test APIs
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.37.0](https://github.com/kubernetes/minikube/releases/tag/v1.37.0), 3 months ago) -
 Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
-- [change docs to documentation](https://github.com/Caesarsage/microcks.io/pull/3) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (5 days ago)
-- [Update navbar from docs to documentation](https://github.com/Caesarsage/microcks.io/pull/2) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (5 days ago)
-- [Add netlify.toml to enable deploy previews for PRs](https://github.com/Caesarsage/microcks.io/pull/1) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (5 days ago)
-- [update docs and fix workflow txt](https://github.com/Caesarsage/OSS-Contribution-Beginer/pull/20) on [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) (6 days ago)
+- [change docs to documentation](https://github.com/Caesarsage/microcks.io/pull/3) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (6 days ago)
+- [Update navbar from docs to documentation](https://github.com/Caesarsage/microcks.io/pull/2) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (6 days ago)
+- [Add netlify.toml to enable deploy previews for PRs](https://github.com/Caesarsage/microcks.io/pull/1) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (6 days ago)
+- [update docs and fix workflow txt](https://github.com/Caesarsage/OSS-Contribution-Beginer/pull/20) on [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) (1 week ago)
 - [feat: added security to pod to run as non user](https://github.com/Caesarsage/k8-task-manager/pull/7) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (1 week ago)
 - [feat: added overlay patches and fix duplicate kustomize template issue](https://github.com/Caesarsage/k8-task-manager/pull/6) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (1 week ago)
 - [feat: structure k8 folder and update readme &amp; note](https://github.com/Caesarsage/k8-task-manager/pull/5) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (1 week ago)
@@ -62,7 +62,7 @@ Run Kubernetes locally
 
 - [Node.js server-side authentication: Tokens vs. JWT](https://blog.logrocket.com/node-js-server-side-authentication-tokens-vs-jwt/) (2 years ago)
 - [Implement in-app notifications with NestJS, MySQL, and Firebase](https://blog.logrocket.com/implement-in-app-notifications-nestjs-mysql-firebase/) (2 years ago)
-- [Applying SOLID principles to TypeScript](https://blog.logrocket.com/applying-solid-principles-typescript/) (2 years ago)
+- [Applying SOLID principles to TypeScript](https://blog.logrocket.com/applying-solid-principles-typescript/) (3 years ago)
 
 **Microsoft Educator Blog**
 - [How to Deploy and Monitor Web Applications on Azure App Service](https://techcommunity.microsoft.com/blog/educatordeveloperblog/how-to-deploy-and-monitor-web-applications-on-azure-app-service/3960676)
