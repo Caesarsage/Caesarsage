@@ -45,8 +45,6 @@ Run Kubernetes locally
 - [feat: added overlay patches and fix duplicate kustomize template issue](https://github.com/Caesarsage/k8-task-manager/pull/6) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (2 weeks ago)
 - [feat: structure k8 folder and update readme &amp; note](https://github.com/Caesarsage/k8-task-manager/pull/5) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (2 weeks ago)
 - [Dev](https://github.com/Caesarsage/k8-task-manager/pull/4) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (2 weeks ago)
-- [generated api reference for 1.35 release](https://github.com/kubernetes/website/pull/53693) on [kubernetes/website](https://github.com/kubernetes/website) (2 weeks ago)
-- [add image to readme docs](https://github.com/Caesarsage/k8-task-manager/pull/3) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
