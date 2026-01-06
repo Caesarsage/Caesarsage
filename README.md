@@ -42,7 +42,6 @@ Run Kubernetes locally
 - [change docs to documentation](https://github.com/Caesarsage/microcks.io/pull/3) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (2 weeks ago)
 - [Update navbar from docs to documentation](https://github.com/Caesarsage/microcks.io/pull/2) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (2 weeks ago)
 - [Add netlify.toml to enable deploy previews for PRs](https://github.com/Caesarsage/microcks.io/pull/1) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (2 weeks ago)
-- [update docs and fix workflow txt](https://github.com/Caesarsage/OSS-Contribution-Beginer/pull/20) on [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
