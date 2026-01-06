@@ -37,7 +37,7 @@ Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
-- [Add learning environment setup documentation](https://github.com/kubernetes/website/pull/53922) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [Add learning environment setup documentation](https://github.com/kubernetes/website/pull/53922) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
 - [change docs to documentation](https://github.com/Caesarsage/microcks.io/pull/3) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (2 weeks ago)
 - [Update navbar from docs to documentation](https://github.com/Caesarsage/microcks.io/pull/2) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (2 weeks ago)
 - [Add netlify.toml to enable deploy previews for PRs](https://github.com/Caesarsage/microcks.io/pull/1) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (2 weeks ago)
