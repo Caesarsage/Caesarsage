@@ -5,8 +5,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
+- [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (today)
 - [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (today)
-- [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 week ago)
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (1 week ago)
 - [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (2 weeks ago)
 - [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (2 weeks ago)
