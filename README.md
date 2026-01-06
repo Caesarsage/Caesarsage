@@ -43,8 +43,6 @@ Run Kubernetes locally
 - [Add netlify.toml to enable deploy previews for PRs](https://github.com/Caesarsage/microcks.io/pull/1) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (2 weeks ago)
 - [update docs and fix workflow txt](https://github.com/Caesarsage/OSS-Contribution-Beginer/pull/20) on [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) (2 weeks ago)
 - [feat: added security to pod to run as non user](https://github.com/Caesarsage/k8-task-manager/pull/7) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (2 weeks ago)
-- [feat: added overlay patches and fix duplicate kustomize template issue](https://github.com/Caesarsage/k8-task-manager/pull/6) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (2 weeks ago)
-- [feat: structure k8 folder and update readme &amp; note](https://github.com/Caesarsage/k8-task-manager/pull/5) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
