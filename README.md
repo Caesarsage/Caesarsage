@@ -5,6 +5,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
+- [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (today)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 week ago)
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (1 week ago)
 - [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (2 weeks ago)
@@ -14,7 +15,6 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (1 month ago)
 - [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (1 month ago)
 - [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (1 month ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -26,10 +26,10 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
+- [microcks/microcks](https://github.com/microcks/microcks) ([1.13.2](https://github.com/microcks/microcks/releases/tag/1.13.2), today) -
+The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.35](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.35), 2 weeks ago) -
 Kubernetes website and documentation repo: 
-- [microcks/microcks](https://github.com/microcks/microcks) ([1.13.1](https://github.com/microcks/microcks/releases/tag/1.13.1), 4 weeks ago) -
-The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 1 month ago) -
 Simple CLI for interacting with Microcks test APIs
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.37.0](https://github.com/kubernetes/minikube/releases/tag/v1.37.0), 3 months ago) -
@@ -37,12 +37,12 @@ Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
+- [improve docs and added k8 multi tier deployment](https://github.com/Caesarsage/Learn-DevOps-by-building/pull/9) on [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) (today)
 - [Add learning environment setup documentation](https://github.com/kubernetes/website/pull/53922) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
 - [change docs to documentation](https://github.com/Caesarsage/microcks.io/pull/3) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (2 weeks ago)
 - [Update navbar from docs to documentation](https://github.com/Caesarsage/microcks.io/pull/2) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (2 weeks ago)
 - [Add netlify.toml to enable deploy previews for PRs](https://github.com/Caesarsage/microcks.io/pull/1) on [Caesarsage/microcks.io](https://github.com/Caesarsage/microcks.io) (2 weeks ago)
 - [update docs and fix workflow txt](https://github.com/Caesarsage/OSS-Contribution-Beginer/pull/20) on [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) (2 weeks ago)
-- [feat: added security to pod to run as non user](https://github.com/Caesarsage/k8-task-manager/pull/7) on [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
