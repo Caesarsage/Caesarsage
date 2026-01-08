@@ -38,7 +38,6 @@ Run Kubernetes locally
 #### 🔨 My recent Pull Requests
 
 - [improve docs and added k8 multi tier deployment](https://github.com/Caesarsage/Learn-DevOps-by-building/pull/9) on [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) (2 days ago)
-- [Add learning environment setup documentation](https://github.com/kubernetes/website/pull/53922) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
 
 #### 📜 My recent blog posts
 
