@@ -18,11 +18,11 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🌱 My latest projects
 
+- [Caesarsage/bluegreen-deployment-ecs](https://github.com/Caesarsage/bluegreen-deployment-ecs) - Production-ready example of blue-green deployment handling database migrations using the expand-contract pattern.
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc
 - [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete
 - [Caesarsage/vertex-ai-firebase](https://github.com/Caesarsage/vertex-ai-firebase) - A full-stack AI chat application built with **Google Cloud&#39;s Vertex AI**, **Firebase**, and **Terraform**. This project demonstrates how to build a modern AI-powered web application with authentication, rate limiting, conversation persistence, and scalable  infrastructure for my Devfest workshop.
 - [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library
-- [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references
 
 #### 🔭 Latest releases I've contributed to
 
