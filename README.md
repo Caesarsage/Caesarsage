@@ -14,7 +14,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (3 weeks ago)
 - [Caesarsage/vertex-ai-firebase](https://github.com/Caesarsage/vertex-ai-firebase) - A full-stack AI chat application built with **Google Cloud&#39;s Vertex AI**, **Firebase**, and **Terraform**. This project demonstrates how to build a modern AI-powered web application with authentication, rate limiting, conversation persistence, and scalable  infrastructure for my Devfest workshop. (1 month ago)
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (1 month ago)
-- [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (1 month ago)
+- [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (1 month ago)
 
 #### 🌱 My latest projects
 
