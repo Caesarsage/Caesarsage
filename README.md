@@ -5,10 +5,10 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/bluegreen-deployment-ecs](https://github.com/Caesarsage/bluegreen-deployment-ecs) - Production-ready example of blue-green deployment handling database migrations using the expand-contract pattern. (today)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (6 days ago)
-- [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (6 days ago)
-- [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (6 days ago)
+- [Caesarsage/bluegreen-deployment-ecs](https://github.com/Caesarsage/bluegreen-deployment-ecs) - Production-ready example of blue-green deployment handling database migrations using the expand-contract pattern. (1 day ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
+- [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 week ago)
+- [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 week ago)
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (2 weeks ago)
 - [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (3 weeks ago)
 - [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (3 weeks ago)
@@ -26,7 +26,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
-- [microcks/microcks](https://github.com/microcks/microcks) ([1.13.2](https://github.com/microcks/microcks/releases/tag/1.13.2), 6 days ago) -
+- [microcks/microcks](https://github.com/microcks/microcks) ([1.13.2](https://github.com/microcks/microcks/releases/tag/1.13.2), 1 week ago) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.35](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.35), 3 weeks ago) -
 Kubernetes website and documentation repo: 
@@ -37,13 +37,13 @@ Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
-- [Discover learn environment page](https://github.com/kubernetes/website/pull/53993) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [Discover learn environment page](https://github.com/kubernetes/website/pull/53993) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
 
 #### 📜 My recent blog posts
 
 **FreeCodeCamp**
 
-- [ How to Create Kubernetes Cluster and Security Groups for Pods in AWS [Full Handbook] ](https://www.freecodecamp.org/news/how-to-create-kubernetes-cluster-and-security-groups-for-pods-in-aws-handbook/) (2 months ago)
+- [ How to Create Kubernetes Cluster and Security Groups for Pods in AWS [Full Handbook] ](https://www.freecodecamp.org/news/how-to-create-kubernetes-cluster-and-security-groups-for-pods-in-aws-handbook/) (3 months ago)
 - [ Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques ](https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/) (3 months ago)
 - [ Kubernetes Networking Tutorial: A Guide for Developers ](https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/) (6 months ago)
 - [ How to Send and Parse JSON Data in Golang – Data Encoding and Decoding Explained With Examples ](https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/) (1 year ago)
