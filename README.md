@@ -6,15 +6,15 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 
 - [Caesarsage/bluegreen-deployment-ecs](https://github.com/Caesarsage/bluegreen-deployment-ecs) - Production-ready example of blue-green deployment handling database migrations using the expand-contract pattern. (2 days ago)
+- [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 week ago)
-- [Caesarsage/Learn-DevOps-by-building](https://github.com/Caesarsage/Learn-DevOps-by-building) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 week ago)
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (2 weeks ago)
 - [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (3 weeks ago)
 - [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (3 weeks ago)
 - [Caesarsage/vertex-ai-firebase](https://github.com/Caesarsage/vertex-ai-firebase) - A full-stack AI chat application built with **Google Cloud&#39;s Vertex AI**, **Firebase**, and **Terraform**. This project demonstrates how to build a modern AI-powered web application with authentication, rate limiting, conversation persistence, and scalable  infrastructure for my Devfest workshop. (1 month ago)
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (1 month ago)
-- [Caesarsage/otp](https://github.com/Caesarsage/otp) - One-time Pad Cryptographic Library (1 month ago)
+- [Caesarsage/terraform-azure](https://github.com/Caesarsage/terraform-azure) - A comprehensive collection of reusable Terraform modules for Azure resources, designed to simplify infrastructure provisioning and promote best practices. (1 month ago)
 
 #### 🌱 My latest projects
 
