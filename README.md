@@ -43,11 +43,11 @@ Run Kubernetes locally
 
 **FreeCodeCamp**
 
+- [ How to Manage Blue-Green Deployments on AWS ECS with Database Migrations: Complete Implementation Guide ](https://www.freecodecamp.org/news/how-to-manage-blue-green-deployments-on-aws-ecs-with-database-migrations/) (today)
 - [ How to Create Kubernetes Cluster and Security Groups for Pods in AWS [Full Handbook] ](https://www.freecodecamp.org/news/how-to-create-kubernetes-cluster-and-security-groups-for-pods-in-aws-handbook/) (3 months ago)
 - [ Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques ](https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/) (3 months ago)
 - [ Kubernetes Networking Tutorial: A Guide for Developers ](https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/) (6 months ago)
 - [ How to Send and Parse JSON Data in Golang – Data Encoding and Decoding Explained With Examples ](https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/) (1 year ago)
-- [ ​​How to Upload Large Files Efficiently with AWS S3 Multipart Upload ](https://www.freecodecamp.org/news/upload-large-files-with-aws/) (2 years ago)
 
 **Logrocket Blog**
 
