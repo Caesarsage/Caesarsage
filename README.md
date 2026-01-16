@@ -37,7 +37,6 @@ Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
-- [Discover learn environment page](https://github.com/kubernetes/website/pull/53993) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
 
 #### 📜 My recent blog posts
 
