@@ -32,7 +32,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 {{- end}}
 
 **Logrocket Blog**
-{{range rss "https://blog.logrocket.com/author/destinyerhabor/feed/" 3}}
+{{range rss "https://blog.logrocket.com/author/destinyerhabor/feed/" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
