@@ -37,6 +37,7 @@ Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
+- [Add tutorial for deploying a Canary Release and related examples](https://github.com/kubernetes/website/pull/54148) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 
 #### 📜 My recent blog posts
 
