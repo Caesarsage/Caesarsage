@@ -37,13 +37,13 @@ Run Kubernetes locally
 
 #### 🔨 My recent Pull Requests
 
-- [Add tutorial for deploying a Canary Release and related examples](https://github.com/kubernetes/website/pull/54148) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
+- [Add tutorial for deploying a Canary Release and related examples](https://github.com/kubernetes/website/pull/54148) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
 
 #### 📜 My recent blog posts
 
 **FreeCodeCamp**
 
-- [ How to Manage Blue-Green Deployments on AWS ECS with Database Migrations: Complete Implementation Guide ](https://www.freecodecamp.org/news/how-to-manage-blue-green-deployments-on-aws-ecs-with-database-migrations/) (1 week ago)
+- [ How to Manage Blue-Green Deployments on AWS ECS with Database Migrations: Complete Implementation Guide ](https://www.freecodecamp.org/news/how-to-manage-blue-green-deployments-on-aws-ecs-with-database-migrations/) (2 weeks ago)
 - [ How to Create Kubernetes Cluster and Security Groups for Pods in AWS [Full Handbook] ](https://www.freecodecamp.org/news/how-to-create-kubernetes-cluster-and-security-groups-for-pods-in-aws-handbook/) (3 months ago)
 - [ Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques ](https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/) (3 months ago)
 - [ Kubernetes Networking Tutorial: A Guide for Developers ](https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/) (7 months ago)
