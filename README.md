@@ -5,7 +5,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (1 day ago)
+- [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (2 days ago)
 - [Caesarsage/googlesheet-automation](https://github.com/Caesarsage/googlesheet-automation) - Automate Google Sheets from Node.js: add, update, and read rows with simple API. Supports service accounts, header mapping, and batch operations. (1 week ago)
 - [Caesarsage/bluegreen-deployment-ecs](https://github.com/Caesarsage/bluegreen-deployment-ecs) - Production-ready example of blue-green deployment handling database migrations using the expand-contract pattern. (2 weeks ago)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (2 weeks ago)
@@ -26,7 +26,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.0](https://github.com/kubernetes/minikube/releases/tag/v1.38.0), 1 day ago) -
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.0](https://github.com/kubernetes/minikube/releases/tag/v1.38.0), 2 days ago) -
 Run Kubernetes locally
 - [microcks/microcks](https://github.com/microcks/microcks) ([1.13.2](https://github.com/microcks/microcks/releases/tag/1.13.2), 3 weeks ago) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
@@ -37,7 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Add tutorial for deploying a Canary Release and related examples](https://github.com/kubernetes/website/pull/54148) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
+- [Add tutorial for deploying a Canary Release and related examples](https://github.com/kubernetes/website/pull/54148) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
 
 #### 📜 My recent blog posts
 
