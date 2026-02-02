@@ -37,7 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Add tutorial for deploying a Canary Release and related examples](https://github.com/kubernetes/website/pull/54148) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
 #### 📜 My recent blog posts
 
