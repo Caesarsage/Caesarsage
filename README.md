@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [fix auto-generated pageinfo rendering for docs pages for docsy upgrade](https://github.com/kubernetes/website/pull/54579) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [Drop stale styles not supported by Bootstrap 5](https://github.com/kubernetes/website/pull/54576) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 
 #### 📜 My recent blog posts
