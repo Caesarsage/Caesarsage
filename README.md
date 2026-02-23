@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ui): enable dashboard links to services and importers](https://github.com/microcks/microcks/pull/1970) on [microcks/microcks](https://github.com/microcks/microcks) (today)
 - [fix: normalize SOAP carriage returns on import and UI rendering](https://github.com/microcks/microcks/pull/1968) on [microcks/microcks](https://github.com/microcks/microcks) (today)
 - [fix auto-generated pageinfo rendering for docs pages for docsy upgrade](https://github.com/kubernetes/website/pull/54579) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 - [Drop stale styles not supported by Bootstrap 5](https://github.com/kubernetes/website/pull/54576) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
