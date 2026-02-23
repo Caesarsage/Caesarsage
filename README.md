@@ -26,7 +26,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 3 days ago) -
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 4 days ago) -
 Run Kubernetes locally
 - [microcks/microcks](https://github.com/microcks/microcks) ([1.13.2](https://github.com/microcks/microcks/releases/tag/1.13.2), 1 month ago) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
@@ -37,14 +37,15 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [fix auto-generated pageinfo rendering for docs pages for docsy upgrade](https://github.com/kubernetes/website/pull/54579) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
-- [Drop stale styles not supported by Bootstrap 5](https://github.com/kubernetes/website/pull/54576) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
+- [fix: normalize SOAP carriage returns on import and UI rendering](https://github.com/microcks/microcks/pull/1968) on [microcks/microcks](https://github.com/microcks/microcks) (today)
+- [fix auto-generated pageinfo rendering for docs pages for docsy upgrade](https://github.com/kubernetes/website/pull/54579) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
+- [Drop stale styles not supported by Bootstrap 5](https://github.com/kubernetes/website/pull/54576) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 
 #### 📜 My recent blog posts
 
 **FreeCodeCamp**
 
-- [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (5 days ago)
+- [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (6 days ago)
 - [ How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook] ](https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/) (1 week ago)
 - [ How to Manage Blue-Green Deployments on AWS ECS with Database Migrations: Complete Implementation Guide ](https://www.freecodecamp.org/news/how-to-manage-blue-green-deployments-on-aws-ecs-with-database-migrations/) (1 month ago)
 - [ How to Create Kubernetes Cluster and Security Groups for Pods in AWS [Full Handbook] ](https://www.freecodecamp.org/news/how-to-create-kubernetes-cluster-and-security-groups-for-pods-in-aws-handbook/) (4 months ago)
