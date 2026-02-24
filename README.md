@@ -37,7 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ui): enable dashboard links to services and importers](https://github.com/microcks/microcks/pull/1970) on [microcks/microcks](https://github.com/microcks/microcks) (1 day ago)
 
 #### 📜 My recent blog posts
 
