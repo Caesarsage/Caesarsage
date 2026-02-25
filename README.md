@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [WIP: sonarqube issue fixes](https://github.com/microcks/microcks/pull/1971) on [microcks/microcks](https://github.com/microcks/microcks) (today)
 
 #### 📜 My recent blog posts
 
