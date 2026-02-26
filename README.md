@@ -7,6 +7,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (2 weeks ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (2 weeks ago)
+- [Caesarsage/geofence-backend](https://github.com/Caesarsage/geofence-backend) -  (3 weeks ago)
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (4 weeks ago)
 - [Caesarsage/googlesheet-automation](https://github.com/Caesarsage/googlesheet-automation) - Automate Google Sheets from Node.js: add, update, and read rows with simple API. Supports service accounts, header mapping, and batch operations. (1 month ago)
 - [Caesarsage/bluegreen-deployment-ecs](https://github.com/Caesarsage/bluegreen-deployment-ecs) - Production-ready example of blue-green deployment handling database migrations using the expand-contract pattern. (1 month ago)
@@ -14,15 +15,14 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (2 months ago)
 - [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (2 months ago)
 - [Caesarsage/vertex-ai-firebase](https://github.com/Caesarsage/vertex-ai-firebase) - A full-stack AI chat application built with **Google Cloud&#39;s Vertex AI**, **Firebase**, and **Terraform**. This project demonstrates how to build a modern AI-powered web application with authentication, rate limiting, conversation persistence, and scalable  infrastructure for my Devfest workshop. (2 months ago)
-- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (2 months ago)
 
 #### 🌱 My latest projects
 
+- [Caesarsage/geofence-backend](https://github.com/Caesarsage/geofence-backend) - 
 - [Caesarsage/googlesheet-automation](https://github.com/Caesarsage/googlesheet-automation) - Automate Google Sheets from Node.js: add, update, and read rows with simple API. Supports service accounts, header mapping, and batch operations.
 - [Caesarsage/bluegreen-deployment-ecs](https://github.com/Caesarsage/bluegreen-deployment-ecs) - Production-ready example of blue-green deployment handling database migrations using the expand-contract pattern.
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc
 - [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete
-- [Caesarsage/vertex-ai-firebase](https://github.com/Caesarsage/vertex-ai-firebase) - A full-stack AI chat application built with **Google Cloud&#39;s Vertex AI**, **Firebase**, and **Terraform**. This project demonstrates how to build a modern AI-powered web application with authentication, rate limiting, conversation persistence, and scalable  infrastructure for my Devfest workshop.
 
 #### 🔭 Latest releases I've contributed to
 
