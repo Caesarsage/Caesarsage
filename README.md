@@ -5,9 +5,9 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) -  (today)
+- [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) -  (1 day ago)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (2 weeks ago)
-- [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (2 weeks ago)
+- [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (3 weeks ago)
 - [Caesarsage/geofence-backend](https://github.com/Caesarsage/geofence-backend) - Backend for smart attendance tracker (3 weeks ago)
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (4 weeks ago)
 - [Caesarsage/googlesheet-automation](https://github.com/Caesarsage/googlesheet-automation) - Automate Google Sheets from Node.js: add, update, and read rows with simple API. Supports service accounts, header mapping, and batch operations. (1 month ago)
@@ -37,14 +37,14 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [WIP: sonarqube issue fixes](https://github.com/microcks/microcks/pull/1971) on [microcks/microcks](https://github.com/microcks/microcks) (1 day ago)
+- [WIP: sonarqube issue fixes](https://github.com/microcks/microcks/pull/1971) on [microcks/microcks](https://github.com/microcks/microcks) (2 days ago)
 
 #### 📜 My recent blog posts
 
 **FreeCodeCamp**
 
 - [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (1 week ago)
-- [ How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook] ](https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/) (1 week ago)
+- [ How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook] ](https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/) (2 weeks ago)
 - [ How to Manage Blue-Green Deployments on AWS ECS with Database Migrations: Complete Implementation Guide ](https://www.freecodecamp.org/news/how-to-manage-blue-green-deployments-on-aws-ecs-with-database-migrations/) (1 month ago)
 - [ How to Create Kubernetes Cluster and Security Groups for Pods in AWS [Full Handbook] ](https://www.freecodecamp.org/news/how-to-create-kubernetes-cluster-and-security-groups-for-pods-in-aws-handbook/) (4 months ago)
 - [ Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques ](https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/) (4 months ago)
