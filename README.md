@@ -5,7 +5,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) -  (3 days ago)
+- [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) - A multi-tenant, BYOK (Bring Your Own Key) intelligence platform that ingests events from communication channels, analyzes them with AI, and publishes actionable insights. (today)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (3 weeks ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (3 weeks ago)
 - [Caesarsage/geofence-backend](https://github.com/Caesarsage/geofence-backend) - Backend for smart attendance tracker (3 weeks ago)
@@ -18,7 +18,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🌱 My latest projects
 
-- [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) - 
+- [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) - A multi-tenant, BYOK (Bring Your Own Key) intelligence platform that ingests events from communication channels, analyzes them with AI, and publishes actionable insights.
 - [Caesarsage/geofence-backend](https://github.com/Caesarsage/geofence-backend) - Backend for smart attendance tracker
 - [Caesarsage/googlesheet-automation](https://github.com/Caesarsage/googlesheet-automation) - Automate Google Sheets from Node.js: add, update, and read rows with simple API. Supports service accounts, header mapping, and batch operations.
 - [Caesarsage/bluegreen-deployment-ecs](https://github.com/Caesarsage/bluegreen-deployment-ecs) - Production-ready example of blue-green deployment handling database migrations using the expand-contract pattern.
