@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [Align training page to docsy all loacalization](https://github.com/kubernetes/website/pull/54828) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [align EN training page styles with Docsy and fix its mobile UX](https://github.com/kubernetes/website/pull/54826) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 
 #### 📜 My recent blog posts
