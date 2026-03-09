@@ -6,7 +6,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 
 - [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) - A multi-tenant, BYOK (Bring Your Own Key) intelligence platform that ingests events from communication channels, analyzes them with AI, and publishes actionable insights. (1 week ago)
-- [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (4 weeks ago)
+- [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 month ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
 - [Caesarsage/geofence-backend](https://github.com/Caesarsage/geofence-backend) - Backend for smart attendance tracker (1 month ago)
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (1 month ago)
@@ -37,8 +37,8 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Align training page to docsy all loacalization](https://github.com/kubernetes/website/pull/54828) on [kubernetes/website](https://github.com/kubernetes/website) (today)
-- [align EN training page styles with Docsy and fix its mobile UX](https://github.com/kubernetes/website/pull/54826) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [Align training page to docsy all loacalization](https://github.com/kubernetes/website/pull/54828) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
+- [align EN training page styles with Docsy and fix its mobile UX](https://github.com/kubernetes/website/pull/54826) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
 
 #### 📜 My recent blog posts
 
