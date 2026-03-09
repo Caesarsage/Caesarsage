@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [fix(sonar): complexity and readability refactors](https://github.com/microcks/microcks/pull/1987) on [microcks/microcks](https://github.com/microcks/microcks) (today)
 - [fix(sonar): type and serialization cleanup](https://github.com/microcks/microcks/pull/1986) on [microcks/microcks](https://github.com/microcks/microcks) (today)
 - [fix(sonar): correctness and security](https://github.com/microcks/microcks/pull/1985) on [microcks/microcks](https://github.com/microcks/microcks) (today)
 - [chore(sonar): batch 1 mechanical cleanup](https://github.com/microcks/microcks/pull/1984) on [microcks/microcks](https://github.com/microcks/microcks) (today)
