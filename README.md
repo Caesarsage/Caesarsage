@@ -6,13 +6,13 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 
 - [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) - A multi-tenant, BYOK (Bring Your Own Key) intelligence platform that ingests events from communication channels, analyzes them with AI, and publishes actionable insights. (1 week ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 month ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
 - [Caesarsage/geofence-backend](https://github.com/Caesarsage/geofence-backend) - Backend for smart attendance tracker (1 month ago)
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (1 month ago)
 - [Caesarsage/googlesheet-automation](https://github.com/Caesarsage/googlesheet-automation) - Automate Google Sheets from Node.js: add, update, and read rows with simple API. Supports service accounts, header mapping, and batch operations. (1 month ago)
 - [Caesarsage/bluegreen-deployment-ecs](https://github.com/Caesarsage/bluegreen-deployment-ecs) - Production-ready example of blue-green deployment handling database migrations using the expand-contract pattern. (1 month ago)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
 - [Caesarsage/OSS-Contribution-Beginer](https://github.com/Caesarsage/OSS-Contribution-Beginer) -  (2 months ago)
 - [Caesarsage/k8-task-manager](https://github.com/Caesarsage/k8-task-manager) - A complete three-tier task management application running on Kubernete (2 months ago)
 
@@ -41,7 +41,7 @@ Simple CLI for interacting with Microcks test APIs
 - [fix(sonar): type and serialization cleanup](https://github.com/microcks/microcks/pull/1986) on [microcks/microcks](https://github.com/microcks/microcks) (today)
 - [fix(sonar): correctness and security](https://github.com/microcks/microcks/pull/1985) on [microcks/microcks](https://github.com/microcks/microcks) (today)
 - [chore(sonar): batch 1 mechanical cleanup](https://github.com/microcks/microcks/pull/1984) on [microcks/microcks](https://github.com/microcks/microcks) (today)
-- [Align training page to docsy all loacalization](https://github.com/kubernetes/website/pull/54828) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
+- [Align training page to docsy all localization](https://github.com/kubernetes/website/pull/54828) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
 - [align EN training page styles with Docsy and fix its mobile UX](https://github.com/kubernetes/website/pull/54826) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
 
 #### 📜 My recent blog posts
