@@ -37,13 +37,13 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [add task page for deployment without downtime](https://github.com/kubernetes/website/pull/54905) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [create a task for manual deployment scale](https://github.com/kubernetes/website/pull/54904) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [community: remove CSS that hides Docsy banner heading](https://github.com/kubernetes/website/pull/54891) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 - [fix(sonar): complexity and readability refactors](https://github.com/microcks/microcks/pull/1987) on [microcks/microcks](https://github.com/microcks/microcks) (6 days ago)
 - [fix(sonar): type and serialization cleanup](https://github.com/microcks/microcks/pull/1986) on [microcks/microcks](https://github.com/microcks/microcks) (6 days ago)
 - [fix(sonar): correctness and security](https://github.com/microcks/microcks/pull/1985) on [microcks/microcks](https://github.com/microcks/microcks) (6 days ago)
 - [chore(sonar): batch 1 mechanical cleanup](https://github.com/microcks/microcks/pull/1984) on [microcks/microcks](https://github.com/microcks/microcks) (6 days ago)
-- [Align training page to docsy all localization](https://github.com/kubernetes/website/pull/54828) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-- [align EN training page styles with Docsy and fix its mobile UX](https://github.com/kubernetes/website/pull/54826) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
 #### 📜 My recent blog posts
 
