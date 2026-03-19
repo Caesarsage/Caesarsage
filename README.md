@@ -7,6 +7,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 - [Caesarsage/microcks-testcontainers-python](https://github.com/Caesarsage/microcks-testcontainers-python) - Python library for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instances thanks to containers (6 days ago)
 - [Caesarsage/microcks-testcontainers-python-demo-flask](https://github.com/Caesarsage/microcks-testcontainers-python-demo-flask) -  (6 days ago)
+- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) - A multi-tenant, BYOK (Bring Your Own Key) intelligence platform that ingests events from communication channels, analyzes them with AI, and publishes actionable insights. (2 weeks ago)
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 month ago)
@@ -14,7 +15,6 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [Caesarsage/geofence-backend](https://github.com/Caesarsage/geofence-backend) - Backend for smart attendance tracker (1 month ago)
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (1 month ago)
 - [Caesarsage/googlesheet-automation](https://github.com/Caesarsage/googlesheet-automation) - Automate Google Sheets from Node.js: add, update, and read rows with simple API. Supports service accounts, header mapping, and batch operations. (1 month ago)
-- [Caesarsage/bluegreen-deployment-ecs](https://github.com/Caesarsage/bluegreen-deployment-ecs) - Production-ready example of blue-green deployment handling database migrations using the expand-contract pattern. (2 months ago)
 
 #### 🌱 My latest projects
 
