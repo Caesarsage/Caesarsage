@@ -5,7 +5,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (2 days ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (today)
+- [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (3 days ago)
 - [Caesarsage/microcks-testcontainers-python](https://github.com/Caesarsage/microcks-testcontainers-python) - Python library for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instances thanks to containers (1 week ago)
 - [Caesarsage/microcks-testcontainers-python-demo-flask](https://github.com/Caesarsage/microcks-testcontainers-python-demo-flask) -  (1 week ago)
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (1 week ago)
@@ -14,7 +15,6 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [Caesarsage/distributed-system](https://github.com/Caesarsage/distributed-system) - Distributed system implementations and paper references (1 month ago)
 - [Caesarsage/geofence-backend](https://github.com/Caesarsage/geofence-backend) - Backend for smart attendance tracker (1 month ago)
 - [Caesarsage/bankflow](https://github.com/Caesarsage/bankflow) - A digital banking platform with modern microservices architecture poc (1 month ago)
-- [Caesarsage/googlesheet-automation](https://github.com/Caesarsage/googlesheet-automation) - Automate Google Sheets from Node.js: add, update, and read rows with simple API. Supports service accounts, header mapping, and batch operations. (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,13 +37,13 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [add layout for kubectl reference index with search](https://github.com/kubernetes/website/pull/54996) on [kubernetes/website](https://github.com/kubernetes/website) (today)
-- [Fix update-schedule workflow: rename branch, add proper error handling](https://github.com/kubernetes/website/pull/54932) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
-- [Show version and language selectors on tablet screens](https://github.com/kubernetes/website/pull/54928) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
+- [Add deprecation notice to kubectl-commands page](https://github.com/kubernetes/website/pull/55004) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [add deprecation notice to generated kubectl-commands page](https://github.com/kubernetes-sigs/reference-docs/pull/427) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
+- [Add description field to kubectl command front matter](https://github.com/kubernetes-sigs/reference-docs/pull/425) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
+- [add layout for kubectl reference index with search](https://github.com/kubernetes/website/pull/54996) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
+- [Fix update-schedule workflow: rename branch, add proper error handling](https://github.com/kubernetes/website/pull/54932) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
+- [Show version and language selectors on tablet screens](https://github.com/kubernetes/website/pull/54928) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 - [Rewrite managing workloads](https://github.com/kubernetes/website/pull/54908) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-- [add task page for deployment without downtime](https://github.com/kubernetes/website/pull/54905) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-- [create a task for manual deployment scale](https://github.com/kubernetes/website/pull/54904) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-- [community: remove CSS that hides Docsy banner heading](https://github.com/kubernetes/website/pull/54891) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
 #### 📜 My recent blog posts
 
