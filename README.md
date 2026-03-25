@@ -40,7 +40,6 @@ Simple CLI for interacting with Microcks test APIs
 - [Add deprecation notice to kubectl-commands page](https://github.com/kubernetes/website/pull/55004) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 - [add deprecation notice to generated kubectl-commands page](https://github.com/kubernetes-sigs/reference-docs/pull/427) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
 - [Add description field to kubectl command front matter](https://github.com/kubernetes-sigs/reference-docs/pull/425) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
-- [add layout for kubectl reference index with search](https://github.com/kubernetes/website/pull/54996) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
 
 #### 📜 My recent blog posts
 
