@@ -5,8 +5,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (2 days ago)
-- [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (5 days ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (3 days ago)
+- [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (6 days ago)
 - [Caesarsage/microcks-testcontainers-python-demo-flask](https://github.com/Caesarsage/microcks-testcontainers-python-demo-flask) -  (1 week ago)
 - [Caesarsage/microcks-testcontainers-python](https://github.com/Caesarsage/microcks-testcontainers-python) - Python library for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instances thanks to containers (1 week ago)
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (2 weeks ago)
@@ -37,15 +37,15 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Add deprecation notice to kubectl-commands page](https://github.com/kubernetes/website/pull/55004) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
-- [add deprecation notice to generated kubectl-commands page](https://github.com/kubernetes-sigs/reference-docs/pull/427) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
-- [Add description field to kubectl command front matter](https://github.com/kubernetes-sigs/reference-docs/pull/425) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
+- [Add deprecation notice to kubectl-commands page](https://github.com/kubernetes/website/pull/55004) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
+- [add deprecation notice to generated kubectl-commands page](https://github.com/kubernetes-sigs/reference-docs/pull/427) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (3 days ago)
+- [Add description field to kubectl command front matter](https://github.com/kubernetes-sigs/reference-docs/pull/425) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (3 days ago)
 
 #### 📜 My recent blog posts
 
 **FreeCodeCamp**
 
-- [ How to Secure a Kubernetes Cluster: RBAC, Pod Hardening, and Runtime Protection ](https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/) (today)
+- [ How to Secure a Kubernetes Cluster: RBAC, Pod Hardening, and Runtime Protection ](https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/) (1 day ago)
 - [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (1 month ago)
 - [ How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook] ](https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/) (1 month ago)
 - [ How to Manage Blue-Green Deployments on AWS ECS with Database Migrations: Complete Implementation Guide ](https://www.freecodecamp.org/news/how-to-manage-blue-green-deployments-on-aws-ecs-with-database-migrations/) (2 months ago)
