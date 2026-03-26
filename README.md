@@ -39,7 +39,6 @@ Simple CLI for interacting with Microcks test APIs
 
 - [Fix truncated Generated API reference descriptions](https://github.com/kubernetes/website/pull/55072) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [fix: improve sentence boundary regex in getEscapedFirstPhrase](https://github.com/kubernetes-sigs/reference-docs/pull/429) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
-- [Add deprecation notice to kubectl-commands page](https://github.com/kubernetes/website/pull/55004) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
 
 #### 📜 My recent blog posts
 
