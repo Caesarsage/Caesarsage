@@ -26,7 +26,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
-- [microcks/microcks](https://github.com/microcks/microcks) ([1.14.0-rc1](https://github.com/microcks/microcks/releases/tag/1.14.0-rc1), 4 days ago) -
+- [microcks/microcks](https://github.com/microcks/microcks) ([1.14.0-rc2](https://github.com/microcks/microcks/releases/tag/1.14.0-rc2), today) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 1 month ago) -
 Run Kubernetes locally
