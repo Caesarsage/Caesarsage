@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [Add --auto-detect flag to derive API groups and versions from swagger](https://github.com/kubernetes-sigs/reference-docs/pull/431) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
 - [ Create epub files for Kubernetes documentation ](https://github.com/kubernetes/website/pull/55152) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
 - [Add feature flag to redirect case studies to CNCF](https://github.com/kubernetes/website/pull/55120) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
 - [Fix truncated Generated API reference descriptions](https://github.com/kubernetes/website/pull/55072) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
