@@ -5,8 +5,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (today)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 day ago)
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (1 day ago)
 - [Caesarsage/microcks-testcontainers-python](https://github.com/Caesarsage/microcks-testcontainers-python) - Python library for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instances thanks to containers (2 days ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [Caesarsage/microcks-testcontainers-python-demo-flask](https://github.com/Caesarsage/microcks-testcontainers-python-demo-flask) -  (3 weeks ago)
@@ -37,12 +37,12 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [epub offline reader docs cover](https://github.com/kubernetes/website/pull/55249) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [gen-apidocs: default to auto-detect and trim v1.35 group mappings](https://github.com/kubernetes-sigs/reference-docs/pull/432) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
 - [Add Caesarsage to the organization members list](https://github.com/kubernetes/org/pull/6269) on [kubernetes/org](https://github.com/kubernetes/org) (today)
 - [Add --auto-detect flag to derive API groups and versions from swagger](https://github.com/kubernetes-sigs/reference-docs/pull/431) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
 - [ Create epub files for Kubernetes documentation ](https://github.com/kubernetes/website/pull/55152) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
 - [Add feature flag to redirect case studies to CNCF](https://github.com/kubernetes/website/pull/55120) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-- [Fix truncated Generated API reference descriptions](https://github.com/kubernetes/website/pull/55072) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
 #### 📜 My recent blog posts
 
