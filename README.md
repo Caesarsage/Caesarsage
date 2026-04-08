@@ -43,7 +43,6 @@ Simple CLI for interacting with Microcks test APIs
 - [gen-apidocs: default to auto-detect and trim v1.35 group mappings](https://github.com/kubernetes-sigs/reference-docs/pull/432) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (4 days ago)
 - [Add Caesarsage to the organization members list](https://github.com/kubernetes/org/pull/6269) on [kubernetes/org](https://github.com/kubernetes/org) (4 days ago)
 - [Add --auto-detect flag to derive API groups and versions from swagger](https://github.com/kubernetes-sigs/reference-docs/pull/431) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (6 days ago)
-- [ Create epub files for Kubernetes documentation ](https://github.com/kubernetes/website/pull/55152) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
 #### 📜 My recent blog posts
 
