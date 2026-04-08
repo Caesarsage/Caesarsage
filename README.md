@@ -38,9 +38,6 @@ Simple CLI for interacting with Microcks test APIs
 #### 🔨 My recent Pull Requests
 
 - [Add redirect for kubectl reference docs](https://github.com/kubernetes-sigs/cli-experimental/pull/433) on [kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental) (today)
-- [Auto add new resources](https://github.com/kubernetes-sigs/reference-docs/pull/433) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (3 days ago)
-- [epub offline reader docs cover](https://github.com/kubernetes/website/pull/55249) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
-- [gen-apidocs: default to auto-detect and trim v1.35 group mappings](https://github.com/kubernetes-sigs/reference-docs/pull/432) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (4 days ago)
 
 #### 📜 My recent blog posts
 
