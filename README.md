@@ -41,7 +41,6 @@ Simple CLI for interacting with Microcks test APIs
 - [Auto add new resources](https://github.com/kubernetes-sigs/reference-docs/pull/433) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (3 days ago)
 - [epub offline reader docs cover](https://github.com/kubernetes/website/pull/55249) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
 - [gen-apidocs: default to auto-detect and trim v1.35 group mappings](https://github.com/kubernetes-sigs/reference-docs/pull/432) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (4 days ago)
-- [Add Caesarsage to the organization members list](https://github.com/kubernetes/org/pull/6269) on [kubernetes/org](https://github.com/kubernetes/org) (4 days ago)
 
 #### 📜 My recent blog posts
 
