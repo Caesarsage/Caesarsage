@@ -37,7 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Add redirect for kubectl reference docs](https://github.com/kubernetes-sigs/cli-experimental/pull/433) on [kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental) (1 day ago)
 
 #### 📜 My recent blog posts
 
