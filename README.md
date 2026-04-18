@@ -39,7 +39,6 @@ Simple CLI for interacting with Microcks test APIs
 
 - [Add Make targets for CI production build](https://github.com/kubernetes/website/pull/55385) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [Add production build presubmit for kubernetes/website](https://github.com/kubernetes/test-infra/pull/36793) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Add Caesarsage to sig-docs-en-reviews](https://github.com/kubernetes/org/pull/6281) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
 
 #### 📜 My recent blog posts
 
