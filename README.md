@@ -5,8 +5,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (today)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (today)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (1 day ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 day ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 week ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (3 weeks ago)
 - [Caesarsage/microcks-testcontainers-python](https://github.com/Caesarsage/microcks-testcontainers-python) - Python library for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instances thanks to containers (3 weeks ago)
@@ -26,7 +26,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 2 days ago) -
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 3 days ago) -
 Kubernetes website and documentation repo: 
 - [microcks/microcks](https://github.com/microcks/microcks) ([1.14.0-rc2](https://github.com/microcks/microcks/releases/tag/1.14.0-rc2), 3 weeks ago) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
@@ -37,13 +37,13 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Update Config API reference for v1.36.0](https://github.com/kubernetes/website/pull/55511) on [kubernetes/website](https://github.com/kubernetes/website) (today)
-- [Update Config API reference for v1.36](https://github.com/kubernetes-sigs/reference-docs/pull/439) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
-- [Update kubectl reference for v1.36.0](https://github.com/kubernetes/website/pull/55508) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
-- [Update kubeadm reference for v1.36.0](https://github.com/kubernetes/website/pull/55507) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
-- [Update component reference for v1.36.0](https://github.com/kubernetes/website/pull/55506) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
-- [Update component reference generator for v1.36](https://github.com/kubernetes-sigs/reference-docs/pull/438) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (1 day ago)
-- [Update API resource reference for v1.36.0](https://github.com/kubernetes/website/pull/55505) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
+- [Update Config API reference for v1.36.0](https://github.com/kubernetes/website/pull/55511) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
+- [Update Config API reference for v1.36](https://github.com/kubernetes-sigs/reference-docs/pull/439) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (1 day ago)
+- [Update kubectl reference for v1.36.0](https://github.com/kubernetes/website/pull/55508) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
+- [Update kubeadm reference for v1.36.0](https://github.com/kubernetes/website/pull/55507) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
+- [Update component reference for v1.36.0](https://github.com/kubernetes/website/pull/55506) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
+- [Update component reference generator for v1.36](https://github.com/kubernetes-sigs/reference-docs/pull/438) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
+- [Update API resource reference for v1.36.0](https://github.com/kubernetes/website/pull/55505) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 
 #### 📜 My recent blog posts
 
