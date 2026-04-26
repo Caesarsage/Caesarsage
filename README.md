@@ -42,7 +42,6 @@ Simple CLI for interacting with Microcks test APIs
 - [Update kubectl reference for v1.36.0](https://github.com/kubernetes/website/pull/55508) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
 - [Update kubeadm reference for v1.36.0](https://github.com/kubernetes/website/pull/55507) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
 - [Update component reference for v1.36.0](https://github.com/kubernetes/website/pull/55506) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
-- [Update component reference generator for v1.36](https://github.com/kubernetes-sigs/reference-docs/pull/438) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (3 days ago)
 
 #### 📜 My recent blog posts
 
