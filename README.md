@@ -37,8 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Update Config API reference for v1.36.0](https://github.com/kubernetes/website/pull/55511) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
-- [Update Config API reference for v1.36](https://github.com/kubernetes-sigs/reference-docs/pull/439) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (3 days ago)
 
 #### 📜 My recent blog posts
 
