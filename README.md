@@ -40,7 +40,6 @@ Simple CLI for interacting with Microcks test APIs
 - [spike: forked netlify retest](https://github.com/Caesarsage/website/pull/5) on [Caesarsage/website](https://github.com/Caesarsage/website) (2 days ago)
 - [Spike: Netlify retest](https://github.com/Caesarsage/website/pull/4) on [Caesarsage/website](https://github.com/Caesarsage/website) (2 days ago)
 - [experimatal throwaway](https://github.com/Caesarsage/website/pull/3) on [Caesarsage/website](https://github.com/Caesarsage/website) (2 days ago)
-- [feat(gen-apidocs): markdown field rendering — H2 sections, inline recursion, cross-refs, nav cleanups](https://github.com/kubernetes-sigs/reference-docs/pull/441) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
 
 #### 📜 My recent blog posts
 
