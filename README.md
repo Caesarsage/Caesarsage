@@ -37,9 +37,9 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [Update release schedule for April 2026 patches](https://github.com/kubernetes/website/pull/55633) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [spike: forked netlify retest](https://github.com/Caesarsage/website/pull/5) on [Caesarsage/website](https://github.com/Caesarsage/website) (3 days ago)
 - [Spike: Netlify retest](https://github.com/Caesarsage/website/pull/4) on [Caesarsage/website](https://github.com/Caesarsage/website) (3 days ago)
-- [experimatal throwaway](https://github.com/Caesarsage/website/pull/3) on [Caesarsage/website](https://github.com/Caesarsage/website) (3 days ago)
 
 #### 📜 My recent blog posts
 
