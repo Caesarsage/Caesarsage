@@ -37,6 +37,9 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [regenerate api-ref to update missing enums](https://github.com/kubernetes/website/pull/55653) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [Regenerate resource docs swagger with OpenAPI enums](https://github.com/kubernetes-sigs/reference-docs/pull/443) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
+- [regenerate swagger from k/k hack/update-openapi-spec.sh (OpenAPIEnums…](https://github.com/kubernetes-sigs/reference-docs/pull/442) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
 - [Update release schedule for April 2026 patches](https://github.com/kubernetes/website/pull/55633) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 
 #### 📜 My recent blog posts
