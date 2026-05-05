@@ -37,10 +37,9 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [external-plugins: add netlify-preview plugin to retry deploy previews](https://github.com/kubernetes-sigs/prow/pull/708) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
 - [add deprecate note on gen-resourcesdocs README and makefile](https://github.com/kubernetes-sigs/reference-docs/pull/445) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (1 day ago)
 - [Update/api docs openapi enums](https://github.com/kubernetes-sigs/reference-docs/pull/444) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
-- [Update API resource reference enum values](https://github.com/kubernetes/website/pull/55655) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
-- [regenerate api-ref to update missing enums](https://github.com/kubernetes/website/pull/55653) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 
 #### 📜 My recent blog posts
 
