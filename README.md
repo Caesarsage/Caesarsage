@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [fix(gen-apidocs): bucket ByKind by group&#43;kind to avoid cross-group collisions](https://github.com/kubernetes-sigs/reference-docs/pull/447) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
 - [external-plugins: add netlify-preview plugin to retry deploy previews](https://github.com/kubernetes-sigs/prow/pull/708) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 days ago)
 
 #### 📜 My recent blog posts
