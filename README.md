@@ -13,7 +13,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
 - [Caesarsage/microcks-testcontainers-python](https://github.com/Caesarsage/microcks-testcontainers-python) - Python library for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instances thanks to containers (1 month ago)
 - [Caesarsage/microcks-testcontainers-python-demo-flask](https://github.com/Caesarsage/microcks-testcontainers-python-demo-flask) -  (1 month ago)
-- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 (2 months ago)
+- [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀 (2 months ago)
 - [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) - A multi-tenant, BYOK (Bring Your Own Key) intelligence platform that ingests events from communication channels, analyzes them with AI, and publishes actionable insights. (2 months ago)
 
 #### 🌱 My latest projects
@@ -27,7 +27,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 🔭 Latest releases I've contributed to
 
 - [microcks/microcks](https://github.com/microcks/microcks) ([1.14.0](https://github.com/microcks/microcks/releases/tag/1.14.0), 1 week ago) -
-The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
+The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 2 weeks ago) -
 Kubernetes website and documentation repo: 
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 2 months ago) -
