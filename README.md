@@ -38,7 +38,6 @@ Simple CLI for interacting with Microcks test APIs
 #### 🔨 My recent Pull Requests
 
 - [chore(makefile): scope env-var checks per target, add copyapimd, refresh help](https://github.com/kubernetes-sigs/reference-docs/pull/449) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (4 days ago)
-- [fix(gen-apidocs): bucket ByKind by group&#43;kind to avoid cross-group collisions](https://github.com/kubernetes-sigs/reference-docs/pull/447) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (4 days ago)
 
 #### 📜 My recent blog posts
 
