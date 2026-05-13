@@ -37,7 +37,8 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [chore(makefile): scope env-var checks per target, add copyapimd, refresh help](https://github.com/kubernetes-sigs/reference-docs/pull/449) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (6 days ago)
+- [reduce gen-apidocs markdown output from 577 to 157 pages](https://github.com/kubernetes-sigs/reference-docs/pull/451) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
+- [switch kubernetes-api reference content to gen-apidocs markdown backend](https://github.com/kubernetes/website/pull/55758) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 
 #### 📜 My recent blog posts
 
