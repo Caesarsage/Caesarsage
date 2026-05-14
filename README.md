@@ -5,7 +5,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (6 days ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [Caesarsage/neetcode-submissions](https://github.com/Caesarsage/neetcode-submissions) - My NeetCode.io problem submissions (1 week ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 weeks ago)
@@ -37,8 +37,8 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [reduce gen-apidocs markdown output from 577 to 157 pages](https://github.com/kubernetes-sigs/reference-docs/pull/451) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
-- [switch kubernetes-api reference content to gen-apidocs markdown backend](https://github.com/kubernetes/website/pull/55758) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [reduce gen-apidocs markdown output from 577 to 157 pages](https://github.com/kubernetes-sigs/reference-docs/pull/451) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (1 day ago)
+- [switch kubernetes-api reference content to gen-apidocs markdown backend](https://github.com/kubernetes/website/pull/55758) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -47,7 +47,7 @@ Simple CLI for interacting with Microcks test APIs
 - [ How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity ](https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/) (1 month ago)
 - [ How to Secure a Kubernetes Cluster: RBAC, Pod Hardening, and Runtime Protection ](https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/) (1 month ago)
 - [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (2 months ago)
-- [ How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook] ](https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/) (2 months ago)
+- [ How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook] ](https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/) (3 months ago)
 - [ How to Manage Blue-Green Deployments on AWS ECS with Database Migrations: Complete Implementation Guide ](https://www.freecodecamp.org/news/how-to-manage-blue-green-deployments-on-aws-ecs-with-database-migrations/) (3 months ago)
 
 **Logrocket Blog**
