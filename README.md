@@ -5,10 +5,10 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (3 days ago)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (4 days ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 weeks ago)
 - [Caesarsage/neetcode-submissions](https://github.com/Caesarsage/neetcode-submissions) - My NeetCode.io problem submissions (2 weeks ago)
-- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (4 weeks ago)
+- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 month ago)
 - [kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental) - Experimental Kubectl libraries and commands. (1 month ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
 - [Caesarsage/microcks-testcontainers-python](https://github.com/Caesarsage/microcks-testcontainers-python) - Python library for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instances thanks to containers (1 month ago)
@@ -37,7 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [add copycomp Makefile targets for component docs](https://github.com/kubernetes-sigs/reference-docs/pull/452) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (1 day ago)
+- [add copycomp Makefile targets for component docs](https://github.com/kubernetes-sigs/reference-docs/pull/452) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
 
 #### 📜 My recent blog posts
 
