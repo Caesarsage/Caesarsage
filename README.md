@@ -38,7 +38,6 @@ Simple CLI for interacting with Microcks test APIs
 #### 🔨 My recent Pull Requests
 
 - [Fix dismissable announcement banner; default-on with opt-out](https://github.com/kubernetes/website/pull/55820) on [kubernetes/website](https://github.com/kubernetes/website) (today)
-- [add copycomp Makefile targets for component docs](https://github.com/kubernetes-sigs/reference-docs/pull/452) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (4 days ago)
 
 #### 📜 My recent blog posts
 
