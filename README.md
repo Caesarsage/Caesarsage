@@ -40,7 +40,6 @@ Simple CLI for interacting with Microcks test APIs
 - [Upgrade to Docsy 0.8, 0.9 and 0.10](https://github.com/kubernetes/website/pull/55856) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
 - [Enable dismiss on KubeCon India 2026 banner](https://github.com/kubernetes/website/pull/55854) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 - [add README for gen-apidocs and gen-compdocs](https://github.com/kubernetes-sigs/reference-docs/pull/454) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
-- [Fix dismissable announcement banner; default-on with opt-out](https://github.com/kubernetes/website/pull/55820) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
 
 #### 📜 My recent blog posts
 
