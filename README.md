@@ -37,8 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade to Docsy 0.8, 0.9 and 0.10](https://github.com/kubernetes/website/pull/55856) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
-- [Enable dismiss on KubeCon India 2026 banner](https://github.com/kubernetes/website/pull/55854) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
 
 #### 📜 My recent blog posts
 
