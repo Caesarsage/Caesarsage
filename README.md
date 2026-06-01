@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [Wrap Chinese variable names in \text{} for KaTeX strict mode](https://github.com/kubernetes/website/pull/55978) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [Bump Hugo to 0.152.2 and upgrade to docsy 0.13.0](https://github.com/kubernetes/website/pull/55972) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [docs: add community Python Testcontainers module](https://github.com/microcks/microcks.io/pull/545) on [microcks/microcks.io](https://github.com/microcks/microcks.io) (1 day ago)
 - [Add theme_lock front matter to concepts overview pages](https://github.com/kubernetes/website/pull/55964) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
