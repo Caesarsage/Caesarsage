@@ -42,7 +42,6 @@ Simple CLI for interacting with Microcks test APIs
 - [docs: add community Python Testcontainers module](https://github.com/microcks/microcks.io/pull/545) on [microcks/microcks.io](https://github.com/microcks/microcks.io) (2 days ago)
 - [Add theme_lock front matter to concepts overview pages](https://github.com/kubernetes/website/pull/55964) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 - [Document fetch_kubecon_events.py in scripts README](https://github.com/kubernetes/website/pull/55934) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
-- [Docsy dark mode switcher](https://github.com/kubernetes/website/pull/55918) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
 #### 📜 My recent blog posts
 
