@@ -40,7 +40,6 @@ Simple CLI for interacting with Microcks test APIs
 - [Wrap Chinese variable names in \text{} for KaTeX strict mode](https://github.com/kubernetes/website/pull/55978) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 - [Bump Hugo to 0.152.2 and upgrade to docsy 0.13.0](https://github.com/kubernetes/website/pull/55972) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 - [docs: add community Python Testcontainers module](https://github.com/microcks/microcks.io/pull/545) on [microcks/microcks.io](https://github.com/microcks/microcks.io) (3 days ago)
-- [Add theme_lock front matter to concepts overview pages](https://github.com/kubernetes/website/pull/55964) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
 
 #### 📜 My recent blog posts
 
