@@ -5,8 +5,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (today)
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (1 day ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (1 day ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (2 days ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (2 weeks ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (3 weeks ago)
@@ -37,13 +37,13 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Add updateapispec-enums-from-source to generate enum swagger from a temporary k/k checkout](https://github.com/kubernetes-sigs/reference-docs/pull/457) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (1 day ago)
+- [Add updateapispec-enums-from-source to generate enum swagger from a temporary k/k checkout](https://github.com/kubernetes-sigs/reference-docs/pull/457) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
 
 #### 📜 My recent blog posts
 
 **FreeCodeCamp**
 
-- [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (2 weeks ago)
+- [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (3 weeks ago)
 - [ How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity ](https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/) (2 months ago)
 - [ How to Secure a Kubernetes Cluster: RBAC, Pod Hardening, and Runtime Protection ](https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/) (2 months ago)
 - [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (3 months ago)
