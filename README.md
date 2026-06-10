@@ -37,7 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Add updateapispec-enums-from-source to generate enum swagger from a temporary k/k checkout](https://github.com/kubernetes-sigs/reference-docs/pull/457) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (2 days ago)
 
 #### 📜 My recent blog posts
 
