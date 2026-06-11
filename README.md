@@ -37,6 +37,8 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [fix(start): reconcile instance status against container runtime before trusting it](https://github.com/microcks/microcks-cli/pull/456) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (today)
+- [fix(start): wait for Microcks server readiness before returning](https://github.com/microcks/microcks-cli/pull/455) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (today)
 
 #### 📜 My recent blog posts
 
