@@ -5,8 +5,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (2 days ago)
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (3 days ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (3 days ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (4 days ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (2 weeks ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (3 weeks ago)
@@ -37,8 +37,8 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [fix(start): reconcile instance status against container runtime before trusting it](https://github.com/microcks/microcks-cli/pull/456) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (today)
-- [fix(start): wait for Microcks server readiness before returning](https://github.com/microcks/microcks-cli/pull/455) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (today)
+- [fix(start): reconcile instance status against container runtime before trusting it](https://github.com/microcks/microcks-cli/pull/456) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (1 day ago)
+- [fix(start): wait for Microcks server readiness before returning](https://github.com/microcks/microcks-cli/pull/455) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (1 day ago)
 
 #### 📜 My recent blog posts
 
