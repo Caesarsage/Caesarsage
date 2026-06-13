@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [fix(watcher): log swallowed config-load error instead of discarding it](https://github.com/microcks/microcks-cli/pull/457) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (today)
 - [fix(start): reconcile instance status against container runtime before trusting it](https://github.com/microcks/microcks-cli/pull/456) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (2 days ago)
 - [fix(start): wait for Microcks server readiness before returning](https://github.com/microcks/microcks-cli/pull/455) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (2 days ago)
 
