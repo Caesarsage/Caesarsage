@@ -37,9 +37,9 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [add hugo-md backend with markdown response code tables](https://github.com/kubernetes-sigs/reference-docs/pull/458) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
 - [feat(test): add --dry-run for zero-infrastructure local contract testing](https://github.com/microcks/microcks-cli/pull/458) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (1 day ago)
 - [fix(watcher): log swallowed config-load error instead of discarding it](https://github.com/microcks/microcks-cli/pull/457) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (1 day ago)
-- [fix(start): reconcile instance status against container runtime before trusting it](https://github.com/microcks/microcks-cli/pull/456) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (3 days ago)
 
 #### 📜 My recent blog posts
 
