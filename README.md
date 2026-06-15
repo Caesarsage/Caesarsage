@@ -37,7 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [add hugo-md backend with markdown response code tables](https://github.com/kubernetes-sigs/reference-docs/pull/458) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (1 day ago)
 
 #### 📜 My recent blog posts
 
