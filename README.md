@@ -5,9 +5,9 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (3 days ago)
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (5 days ago)
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (6 days ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (2 days ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (6 days ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (2 weeks ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (4 weeks ago)
@@ -37,9 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [add hugo-md backend with markdown response code tables](https://github.com/kubernetes-sigs/reference-docs/pull/458) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
-- [feat(test): add --dry-run for zero-infrastructure local contract testing](https://github.com/microcks/microcks-cli/pull/458) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (1 day ago)
-- [fix(watcher): log swallowed config-load error instead of discarding it](https://github.com/microcks/microcks-cli/pull/457) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (1 day ago)
+- [add hugo-md backend with markdown response code tables](https://github.com/kubernetes-sigs/reference-docs/pull/458) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (1 day ago)
 
 #### 📜 My recent blog posts
 
