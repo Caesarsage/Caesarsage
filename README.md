@@ -37,7 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Modularize SCSS into partials and centralize color tokens](https://github.com/kubernetes/contributor-site/pull/783) on [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) (2 days ago)
 
 #### 📜 My recent blog posts
 
