@@ -5,9 +5,9 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (2 days ago)
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (4 days ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (5 days ago)
+- [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (3 days ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (5 days ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (6 days ago)
 - [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 weeks ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (3 weeks ago)
@@ -30,7 +30,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 1 month ago) -
 Kubernetes website and documentation repo: 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 3 months ago) -
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 4 months ago) -
 Run Kubernetes locally
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 6 months ago) -
 Simple CLI for interacting with Microcks test APIs
@@ -42,7 +42,7 @@ Simple CLI for interacting with Microcks test APIs
 
 **FreeCodeCamp**
 
-- [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (4 weeks ago)
+- [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (1 month ago)
 - [ How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity ](https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/) (2 months ago)
 - [ How to Secure a Kubernetes Cluster: RBAC, Pod Hardening, and Runtime Protection ](https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/) (2 months ago)
 - [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (4 months ago)
