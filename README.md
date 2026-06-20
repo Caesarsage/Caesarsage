@@ -5,9 +5,9 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (3 days ago)
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (5 days ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (6 days ago)
+- [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (4 days ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (6 days ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
 - [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 weeks ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (3 weeks ago)
