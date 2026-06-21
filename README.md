@@ -5,8 +5,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (4 days ago)
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (6 days ago)
+- [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (5 days ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (1 week ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
 - [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 weeks ago)
@@ -28,7 +28,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 - [microcks/microcks](https://github.com/microcks/microcks) ([1.14.0](https://github.com/microcks/microcks/releases/tag/1.14.0), 1 month ago) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 1 month ago) -
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 2 months ago) -
 Kubernetes website and documentation repo: 
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 4 months ago) -
 Run Kubernetes locally
@@ -50,7 +50,7 @@ Simple CLI for interacting with Microcks test APIs
 
 **Logrocket Blog**
 
-- [Node.js server-side authentication: Tokens vs. JWT](https://blog.logrocket.com/node-js-server-side-authentication-tokens-vs-jwt/) (2 years ago)
+- [Node.js server-side authentication: Tokens vs. JWT](https://blog.logrocket.com/node-js-server-side-authentication-tokens-vs-jwt/) (3 years ago)
 - [Implement in-app notifications with NestJS, MySQL, and Firebase](https://blog.logrocket.com/implement-in-app-notifications-nestjs-mysql-firebase/) (3 years ago)
 - [Applying SOLID principles to TypeScript](https://blog.logrocket.com/applying-solid-principles-typescript/) (3 years ago)
 
