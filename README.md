@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: split template helpers and slug utils out of markdown.go](https://github.com/kubernetes-sigs/reference-docs/pull/459) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
 
 #### 📜 My recent blog posts
 
