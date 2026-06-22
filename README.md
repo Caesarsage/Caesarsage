@@ -26,7 +26,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
-- [microcks/microcks](https://github.com/microcks/microcks) ([1.14.0](https://github.com/microcks/microcks/releases/tag/1.14.0), 1 month ago) -
+- [microcks/microcks](https://github.com/microcks/microcks) ([1.15.0-rc1](https://github.com/microcks/microcks/releases/tag/1.15.0-rc1), today) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 2 months ago) -
 Kubernetes website and documentation repo: 
@@ -37,6 +37,9 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [feat(test): podman driver support for microcks test --dry-run](https://github.com/microcks/microcks-cli/pull/467) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (today)
+- [ feat(test): add --dry-run for zero-infrastructure local contract testing](https://github.com/microcks/microcks-cli/pull/466) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (today)
+- [hugo-md: extend to all operation sub-tables &#43; restructure page (#440 phases 2, 6, 7, 8)](https://github.com/kubernetes-sigs/reference-docs/pull/460) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
 - [refactor: split template helpers and slug utils out of markdown.go](https://github.com/kubernetes-sigs/reference-docs/pull/459) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (1 day ago)
 
 #### 📜 My recent blog posts
