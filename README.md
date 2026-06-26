@@ -37,7 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [feat(test): podman driver support for microcks test --dry-run](https://github.com/microcks/microcks-cli/pull/467) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (4 days ago)
 
 #### 📜 My recent blog posts
 
