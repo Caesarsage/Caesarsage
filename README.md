@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [Split Dynamic Resource Allocation into a Resource Management section](https://github.com/kubernetes/website/pull/56295) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [Merged main branch into dev 1.37](https://github.com/kubernetes/website/pull/56271) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
 
 #### 📜 My recent blog posts
