@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [feat(test): add --output (text/json/yaml/github-actions) for machine-readable results](https://github.com/microcks/microcks-cli/pull/488) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (today)
 - [Feat/test output](https://github.com/Caesarsage/microcks-cli/pull/1) on [Caesarsage/microcks-cli](https://github.com/Caesarsage/microcks-cli) (today)
 - [Split Dynamic Resource Allocation into a Resource Management section](https://github.com/kubernetes/website/pull/56295) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
 
