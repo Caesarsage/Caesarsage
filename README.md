@@ -12,7 +12,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (4 weeks ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (1 month ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
-- [Caesarsage/neetcode-submissions](https://github.com/Caesarsage/neetcode-submissions) - My NeetCode.io problem submissions (1 month ago)
+- [Caesarsage/neetcode-submissions](https://github.com/Caesarsage/neetcode-submissions) - My NeetCode.io problem submissions (2 months ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
 - [kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental) - Experimental Kubectl libraries and commands. (2 months ago)
 
@@ -37,7 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Split Dynamic Resource Allocation into a Resource Management section](https://github.com/kubernetes/website/pull/56295) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
+- [Split Dynamic Resource Allocation into a Resource Management section](https://github.com/kubernetes/website/pull/56295) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
 
 #### 📜 My recent blog posts
 
