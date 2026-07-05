@@ -37,8 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [feat(test): add --output (text/json/yaml/github-actions) for machine-readable results](https://github.com/microcks/microcks-cli/pull/488) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (4 days ago)
-- [Feat/test output](https://github.com/Caesarsage/microcks-cli/pull/1) on [Caesarsage/microcks-cli](https://github.com/Caesarsage/microcks-cli) (4 days ago)
 
 #### 📜 My recent blog posts
 
