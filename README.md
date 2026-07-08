@@ -37,6 +37,8 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [Update release notes draft to version v1.37.0-alpha.3](https://github.com/kubernetes/sig-release/pull/3058) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
+- [Update release notes draft to version v1.37.0-alpha.3](https://github.com/kubernetes/sig-release/pull/3057) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
 
 #### 📜 My recent blog posts
 
