@@ -37,7 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Improve the Kubernetes API reference generation guide](https://github.com/kubernetes/website/pull/56398) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 
 #### 📜 My recent blog posts
 
