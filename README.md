@@ -37,6 +37,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [Merge main into dev-1.37 to keep in sync](https://github.com/kubernetes/website/pull/56460) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [refactor(cli): remove the legacy exit shim and enforce it in CI](https://github.com/microcks/microcks-cli/pull/491) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (1 day ago)
 - [refactor(cli): migrate commands to RunE with a single exit funnel](https://github.com/microcks/microcks-cli/pull/490) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (1 day ago)
 - [fix(cli): classify failures and stop panicking in the client library](https://github.com/microcks/microcks-cli/pull/489) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (1 day ago)
