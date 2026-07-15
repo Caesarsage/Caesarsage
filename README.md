@@ -37,12 +37,10 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Merge main into dev-1.37 to keep in sync](https://github.com/kubernetes/website/pull/56460) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
-- [refactor(cli): remove the legacy exit shim and enforce it in CI](https://github.com/microcks/microcks-cli/pull/491) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (5 days ago)
-- [refactor(cli): migrate commands to RunE with a single exit funnel](https://github.com/microcks/microcks-cli/pull/490) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (5 days ago)
-- [fix(cli): classify failures and stop panicking in the client library](https://github.com/microcks/microcks-cli/pull/489) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (5 days ago)
-- [Update release notes draft to version v1.37.0-alpha.3](https://github.com/kubernetes/sig-release/pull/3058) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (6 days ago)
-- [Update release notes draft to version v1.37.0-alpha.3](https://github.com/kubernetes/sig-release/pull/3057) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (6 days ago)
+- [Merge main into dev-1.37 to keep in sync](https://github.com/kubernetes/website/pull/56460) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
+- [refactor(cli): remove the legacy exit shim and enforce it in CI](https://github.com/microcks/microcks-cli/pull/491) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (6 days ago)
+- [refactor(cli): migrate commands to RunE with a single exit funnel](https://github.com/microcks/microcks-cli/pull/490) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (6 days ago)
+- [fix(cli): classify failures and stop panicking in the client library](https://github.com/microcks/microcks-cli/pull/489) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (6 days ago)
 
 #### 📜 My recent blog posts
 
