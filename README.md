@@ -37,7 +37,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Merge main into dev-1.37 to keep in sync](https://github.com/kubernetes/website/pull/56460) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
 
 #### 📜 My recent blog posts
 
