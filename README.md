@@ -5,16 +5,16 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 week ago)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (3 weeks ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (today)
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
+- [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (2 weeks ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 weeks ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 month ago)
 - [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (1 month ago)
 - [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (1 month ago)
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (1 month ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (1 month ago)
 - [Caesarsage/neetcode-submissions](https://github.com/Caesarsage/neetcode-submissions) - My NeetCode.io problem submissions (2 months ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 months ago)
-- [kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental) - Experimental Kubectl libraries and commands. (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -26,12 +26,14 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
-- [microcks/microcks](https://github.com/microcks/microcks) ([1.15.0-rc1](https://github.com/microcks/microcks/releases/tag/1.15.0-rc1), 3 weeks ago) -
+- [microcks/microcks](https://github.com/microcks/microcks) ([1.15.0-rc1](https://github.com/microcks/microcks/releases/tag/1.15.0-rc1), 4 weeks ago) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 2 months ago) -
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 3 months ago) -
 Kubernetes website and documentation repo: 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 4 months ago) -
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 5 months ago) -
 Run Kubernetes locally
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 7 months ago) -
+Repo for SIG release
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 7 months ago) -
 Simple CLI for interacting with Microcks test APIs
 
@@ -42,11 +44,11 @@ Simple CLI for interacting with Microcks test APIs
 
 **FreeCodeCamp**
 
-- [ How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium ](https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/) (1 week ago)
-- [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (1 month ago)
+- [ How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium ](https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/) (2 weeks ago)
+- [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (2 months ago)
 - [ How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity ](https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/) (3 months ago)
 - [ How to Secure a Kubernetes Cluster: RBAC, Pod Hardening, and Runtime Protection ](https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/) (3 months ago)
-- [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (4 months ago)
+- [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (5 months ago)
 
 **Logrocket Blog**
 
