@@ -5,7 +5,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (2 days ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (3 days ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 weeks ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 weeks ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (2 weeks ago)
@@ -34,13 +34,13 @@ Kubernetes website and documentation repo:
 Run Kubernetes locally
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 7 months ago) -
 Repo for SIG release
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 7 months ago) -
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 8 months ago) -
 Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add team members permissions and export](https://github.com/orisngdev/adewale-conference-website/pull/2) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (2 days ago)
-- [Feat/admin analytics](https://github.com/orisngdev/adewale-conference-website/pull/1) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (3 days ago)
+- [feat: add team members permissions and export](https://github.com/orisngdev/adewale-conference-website/pull/2) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (3 days ago)
+- [Feat/admin analytics](https://github.com/orisngdev/adewale-conference-website/pull/1) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (4 days ago)
 
 #### 📜 My recent blog posts
 
