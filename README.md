@@ -18,11 +18,11 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🌱 My latest projects
 
+- [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - 
 - [Caesarsage/neetcode-submissions](https://github.com/Caesarsage/neetcode-submissions) - My NeetCode.io problem submissions
 - [Caesarsage/microcks-testcontainers-python-demo-flask](https://github.com/Caesarsage/microcks-testcontainers-python-demo-flask) - 
 - [Caesarsage/microcks-testcontainers-python](https://github.com/Caesarsage/microcks-testcontainers-python) - Python library for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instances thanks to containers
 - [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) - A multi-tenant, BYOK (Bring Your Own Key) intelligence platform that ingests events from communication channels, analyzes them with AI, and publishes actionable insights.
-- [Caesarsage/geofence-backend](https://github.com/Caesarsage/geofence-backend) - Backend for smart attendance tracker
 
 #### 🔭 Latest releases I've contributed to
 
