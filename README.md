@@ -5,7 +5,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (2 days ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (today)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (3 weeks ago)
@@ -39,6 +39,7 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [make replacement reason required](https://github.com/orisngdev/adewale-conference-website/pull/4) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (today)
 - [DRA: relocate extended-resource and device-metadata sections](https://github.com/kubernetes/website/pull/56642) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
 - [feat(tournament): implement tournament flow with group stages, matches, and awards](https://github.com/orisngdev/adewale-conference-website/pull/3) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (2 days ago)
 - [Repoint DRA links after docs reorganization](https://github.com/kubernetes/website/pull/56639) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
