@@ -5,8 +5,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (1 day ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (4 days ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (2 days ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (5 days ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (3 weeks ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (3 weeks ago)
@@ -39,10 +39,10 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [make replacement reason required](https://github.com/orisngdev/adewale-conference-website/pull/4) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 day ago)
-- [DRA: relocate extended-resource and device-metadata sections](https://github.com/kubernetes/website/pull/56642) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
-- [feat(tournament): implement tournament flow with group stages, matches, and awards](https://github.com/orisngdev/adewale-conference-website/pull/3) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (3 days ago)
-- [Repoint DRA links after docs reorganization](https://github.com/kubernetes/website/pull/56639) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
+- [make replacement reason required](https://github.com/orisngdev/adewale-conference-website/pull/4) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (2 days ago)
+- [DRA: relocate extended-resource and device-metadata sections](https://github.com/kubernetes/website/pull/56642) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
+- [feat(tournament): implement tournament flow with group stages, matches, and awards](https://github.com/orisngdev/adewale-conference-website/pull/3) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (4 days ago)
+- [Repoint DRA links after docs reorganization](https://github.com/kubernetes/website/pull/56639) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
 - [feat: add team members permissions and export](https://github.com/orisngdev/adewale-conference-website/pull/2) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 week ago)
 - [Feat/admin analytics](https://github.com/orisngdev/adewale-conference-website/pull/1) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 week ago)
 
