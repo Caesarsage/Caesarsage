@@ -5,11 +5,11 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (1 day ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (2 days ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (3 weeks ago)
-- [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (3 weeks ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (4 weeks ago)
+- [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (4 weeks ago)
 - [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (1 month ago)
 - [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (1 month ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (2 months ago)
@@ -39,10 +39,10 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [add send status update](https://github.com/orisngdev/adewale-conference-website/pull/5) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (2 days ago)
-- [make replacement reason required](https://github.com/orisngdev/adewale-conference-website/pull/4) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (4 days ago)
-- [DRA: relocate extended-resource and device-metadata sections](https://github.com/kubernetes/website/pull/56642) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
-- [feat(tournament): implement tournament flow with group stages, matches, and awards](https://github.com/orisngdev/adewale-conference-website/pull/3) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (6 days ago)
+- [add send status update](https://github.com/orisngdev/adewale-conference-website/pull/5) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (3 days ago)
+- [make replacement reason required](https://github.com/orisngdev/adewale-conference-website/pull/4) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (5 days ago)
+- [DRA: relocate extended-resource and device-metadata sections](https://github.com/kubernetes/website/pull/56642) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
+- [feat(tournament): implement tournament flow with group stages, matches, and awards](https://github.com/orisngdev/adewale-conference-website/pull/3) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 week ago)
 - [Repoint DRA links after docs reorganization](https://github.com/kubernetes/website/pull/56639) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 - [feat: add team members permissions and export](https://github.com/orisngdev/adewale-conference-website/pull/2) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 week ago)
 
@@ -50,9 +50,9 @@ Simple CLI for interacting with Microcks test APIs
 
 **FreeCodeCamp**
 
-- [ How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium ](https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/) (3 weeks ago)
+- [ How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium ](https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/) (4 weeks ago)
 - [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (2 months ago)
-- [ How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity ](https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/) (3 months ago)
+- [ How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity ](https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/) (4 months ago)
 - [ How to Secure a Kubernetes Cluster: RBAC, Pod Hardening, and Runtime Protection ](https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/) (4 months ago)
 - [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (5 months ago)
 
