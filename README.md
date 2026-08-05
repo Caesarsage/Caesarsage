@@ -6,7 +6,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 
 - [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (today)
-- [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) -  (today)
+- [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) -  (1 day ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (4 weeks ago)
@@ -39,9 +39,9 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [feat(cli): machine-readable output for editor and automation integrations](https://github.com/microcks/microcks-cli/pull/499) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (today)
-- [add send status update](https://github.com/orisngdev/adewale-conference-website/pull/5) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (3 days ago)
-- [make replacement reason required](https://github.com/orisngdev/adewale-conference-website/pull/4) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (5 days ago)
+- [feat(cli): machine-readable output for editor and automation integrations](https://github.com/microcks/microcks-cli/pull/499) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (1 day ago)
+- [add send status update](https://github.com/orisngdev/adewale-conference-website/pull/5) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (4 days ago)
+- [make replacement reason required](https://github.com/orisngdev/adewale-conference-website/pull/4) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (6 days ago)
 - [DRA: relocate extended-resource and device-metadata sections](https://github.com/kubernetes/website/pull/56642) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 - [feat(tournament): implement tournament flow with group stages, matches, and awards](https://github.com/orisngdev/adewale-conference-website/pull/3) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 week ago)
 - [Repoint DRA links after docs reorganization](https://github.com/kubernetes/website/pull/56639) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
