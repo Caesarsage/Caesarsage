@@ -39,9 +39,9 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
+- [Style pass and SIG label fix for the v1.37.0-rc.0 draft](https://github.com/chadmcrowell/sig-release/pull/1) on [chadmcrowell/sig-release](https://github.com/chadmcrowell/sig-release) (today)
 - [feat(cli): machine-readable output for editor and automation integrations](https://github.com/microcks/microcks-cli/pull/499) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (3 days ago)
 - [add send status update](https://github.com/orisngdev/adewale-conference-website/pull/5) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (6 days ago)
-- [make replacement reason required](https://github.com/orisngdev/adewale-conference-website/pull/4) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 week ago)
 
 #### 📜 My recent blog posts
 
