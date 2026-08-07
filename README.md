@@ -42,10 +42,6 @@ Simple CLI for interacting with Microcks test APIs
 - [feat(cli): machine-readable output for editor and automation integrations](https://github.com/microcks/microcks-cli/pull/499) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (3 days ago)
 - [add send status update](https://github.com/orisngdev/adewale-conference-website/pull/5) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (6 days ago)
 - [make replacement reason required](https://github.com/orisngdev/adewale-conference-website/pull/4) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 week ago)
-- [DRA: relocate extended-resource and device-metadata sections](https://github.com/kubernetes/website/pull/56642) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-- [feat(tournament): implement tournament flow with group stages, matches, and awards](https://github.com/orisngdev/adewale-conference-website/pull/3) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 week ago)
-- [Repoint DRA links after docs reorganization](https://github.com/kubernetes/website/pull/56639) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-- [feat: add team members permissions and export](https://github.com/orisngdev/adewale-conference-website/pull/2) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
