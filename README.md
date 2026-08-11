@@ -39,7 +39,6 @@ Simple CLI for interacting with Microcks test APIs
 
 #### 🔨 My recent Pull Requests
 
-- [Style pass and SIG label fix for the v1.37.0-rc.0 draft](https://github.com/chadmcrowell/sig-release/pull/1) on [chadmcrowell/sig-release](https://github.com/chadmcrowell/sig-release) (4 days ago)
 
 #### 📜 My recent blog posts
 
