@@ -5,8 +5,8 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 #### 👷 Check out what I'm currently working on
 
 
-- [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) -  (1 day ago)
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (6 days ago)
+- [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) -  (2 days ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (1 week ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (2 weeks ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 month ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
@@ -26,7 +26,7 @@ My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expert
 
 #### 🔭 Latest releases I've contributed to
 
-- [microcks/microcks](https://github.com/microcks/microcks) ([1.15.0](https://github.com/microcks/microcks/releases/tag/1.15.0), 6 days ago) -
+- [microcks/microcks](https://github.com/microcks/microcks) ([1.15.0](https://github.com/microcks/microcks/releases/tag/1.15.0), 1 week ago) -
 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 3 months ago) -
 Kubernetes website and documentation repo: 
