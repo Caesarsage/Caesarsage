@@ -7,7 +7,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 
 ## 🚀 What I'm currently working on
 
-- ☸️ Contributing to **Kubernetes** (SIG Docs & API Machinery)
+- ☸️ Contributing to **Kubernetes** (SIG Docs, Release, Testing, CLI, API Machinery)
 - 🧩 Contributing to **Microcks** (CLI, TestContainers & Developer Experience)
 - 🏗️ Building scalable backend systems and cloud infrastructure
 - ✍️ Writing technical articles on Kubernetes, Go, Docker, AWS, and distributed systems
@@ -17,10 +17,10 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 👷 Recent Open Source Activity
 
 
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (today)
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 day ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 day ago)
-- [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) -  (3 days ago)
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) -  (1 week ago)
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 month ago)
+- [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code.  (3 days ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
 - [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (1 month ago)
@@ -33,7 +33,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🌱 Latest Projects
 
 
-- [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - 
+- [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code. 
 - [Caesarsage/neetcode-submissions](https://github.com/Caesarsage/neetcode-submissions) - My NeetCode.io problem submissions
 - [Caesarsage/microcks-testcontainers-python-demo-flask](https://github.com/Caesarsage/microcks-testcontainers-python-demo-flask) - 
 - [Caesarsage/microcks-testcontainers-python](https://github.com/Caesarsage/microcks-testcontainers-python) - Python library for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instances thanks to containers
