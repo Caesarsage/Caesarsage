@@ -7,7 +7,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 
 ## 🚀 What I'm currently working on
 
-- ☸️ Contributing to **Kubernetes** (SIG Docs & API Machinery)
+- ☸️ Contributing to **Kubernetes** (SIG Docs, Release, Testing, CLI, API Machinery)
 - 🧩 Contributing to **Microcks** (CLI, TestContainers & Developer Experience)
 - 🏗️ Building scalable backend systems and cloud infrastructure
 - ✍️ Writing technical articles on Kubernetes, Go, Docker, AWS, and distributed systems
