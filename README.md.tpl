@@ -1,66 +1,134 @@
-### Hi there 👋
+# Hi there 👋, I'm Destiny Erhabor
 
-My name is Destiny Erhabor and I am a Software Engineer with Cloud/DevOps expertise and an Opensource Contributor to Kubernetes, Microcks and more.
+**Cloud Native Software Developer** building scalable systems with **Go, TypeScript, Kubernetes, and AWS**.
+I'm passionate about designing reliable backend systems, modern cloud infrastructure, and contributing to open source. Beyond my day job, I'm an active contributor to the **Kubernetes** and **Microcks** communities, where I help improve developer tooling, documentation, and cloud-native projects.
 
-#### 👷 Check out what I'm currently working on
+---
+
+## 🚀 What I'm currently working on
+
+- ☸️ Contributing to **Kubernetes** (SIG Docs & API Machinery)
+- 🧩 Contributing to **Microcks** (CLI, TestContainers & Developer Experience)
+- 🏗️ Building scalable backend systems and cloud infrastructure
+- ✍️ Writing technical articles on Kubernetes, Go, Docker, AWS, and distributed systems
+
+---
+
+## 👷 Recent Open Source Activity
 
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My latest projects
+---
+
+## 🌱 Latest Projects
+
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
+---
+
+## 🚀 Latest Releases I've Contributed To
+
 {{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) -
-{{.Description}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
+  {{.Description}}
 {{- end}}
 
-#### 🔨 My recent Pull Requests
+---
+
+## 🔨 Recent Pull Requests
+
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
+---
 
-**FreeCodeCamp**
+## ❤️ Open Source
+
+I actively contribute to cloud-native projects that improve the developer experience.
+
+### ☸️ Kubernetes
+
+- SIG Docs
+- API Machinery
+- Documentation & Tooling
+- Code Reviews
+- Reference Documentation Automation
+
+### 🧩 Microcks
+
+- CLI Development
+- TestContainers
+- Documentation
+- Developer Experience
+
+---
+
+## ✍️ Latest Articles
+
+### FreeCodeCamp
+
 {{range rss "https://www.freecodecamp.org/news/author/CaesarSage/rss" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-**Logrocket Blog**
+### LogRocket
+
 {{range rss "https://blog.logrocket.com/author/destinyerhabor/feed/" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-**Microsoft Educator Blog**
+### Microsoft Educator Blog
+
 - [How to Deploy and Monitor Web Applications on Azure App Service](https://techcommunity.microsoft.com/blog/educatordeveloperblog/how-to-deploy-and-monitor-web-applications-on-azure-app-service/3960676)
-- [Empowering Startups: The Introductory Guide to Databricks for Entrepreneur's Data-Driven Success](https://techcommunity.microsoft.com/blog/educatordeveloperblog/empowering-startups-the-introductory-guide-to-databricks-for-entrepreneurs-data-/3934092)
+- [Empowering Startups: An Introductory Guide to Databricks](https://techcommunity.microsoft.com/blog/educatordeveloperblog/empowering-startups-the-introductory-guide-to-databricks-for-entrepreneurs-data-/3934092)
 
-**Hashnode**
-- [My Posts on Hashnode](https://caesarsage.hashnode.dev/)
+### Hashnode
 
-#### 💬 Feedback
+- https://caesarsage.hashnode.dev
 
-Say Hello, I don't bite!
+---
 
-More facts about me 🤗👇
+## 🛠️ Tech Stack
 
-- 🌱 I’m currently learning Advance Backend Practice, Distributed systems, Data Structure and algorithms
-- 👯 I’m contributing to OSS and looking to collaborate on projects related to backed web development, cloud computing, and DevOps—stuff that is creating or can create value for the society!
-- 💬 Ask me about: Web Development, DSA, Cloud tools or implementation, Automation, Infrastructure
-- 😄 Pronouns: he/him
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | Go • TypeScript • JavaScript • Python • Java |
+| **Backend** | NestJS • Node.js • Spring Boot • REST APIs • gRPC |
+| **Cloud & Platform** | Kubernetes • Docker • AWS • Azure • Terraform • Helm |
+| **CI/CD** | GitHub Actions • GitLab CI • Jenkins • CircleCI |
+| **Observability** | Prometheus • Grafana • Loki • OpenTelemetry |
+| **Databases** | PostgreSQL • MySQL • MongoDB • Redis |
+| **Messaging** | Kafka • RabbitMQ |
+| **Testing** | TestContainers • JUnit • Jest • Postman |
+| **Developer Tools** | Git • Linux • VS Code • IntelliJ IDEA |
 
-#### 📫 How to reach me
+---
 
-- Twitter: https://x.com/caesar_sage
-- Linkedin: https://www.linkedin.com/in/destiny-erhabor/
-- Email: mailto:destinyerhabor6@gmail.com
+## 📚 Currently Learning
 
+- Advanced Backend Engineering
+- Distributed Systems
+- Kubernetes API Machinery
+- Platform Engineering
+- Data Structures & Algorithms
+- System Design
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/destiny-erhabor/
+- 🐦 X (Twitter): https://x.com/caesar_sage
+- 🌐 Hashnode: https://caesarsage.hashnode.dev
+- 📧 Email: destinyerhabor6@gmail.com
+
+---
+
+> *I enjoy building software that scales, contributing to open source, and sharing knowledge with the developer community.*
 
 <!-- comments will be preserved -->
