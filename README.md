@@ -17,9 +17,9 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 👷 Recent Open Source Activity
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (3 days ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (5 days ago)
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (5 days ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (4 days ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (6 days ago)
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (6 days ago)
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code.  (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
@@ -48,7 +48,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
   The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 3 months ago)
   Kubernetes website and documentation repo: 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 5 months ago)
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 6 months ago)
   Run Kubernetes locally
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 8 months ago)
   Repo for SIG release
@@ -60,7 +60,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
-- [Merge main branch into dev-1.37](https://github.com/kubernetes/website/pull/56998) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
+- [Merge main branch into dev-1.37](https://github.com/kubernetes/website/pull/56998) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
 
 ---
 
@@ -91,7 +91,7 @@ I actively contribute to cloud-native projects that improve the developer experi
 
 
 - [ How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium ](https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/) (1 month ago)
-- [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (2 months ago)
+- [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (3 months ago)
 - [ How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity ](https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/) (4 months ago)
 - [ How to Secure a Kubernetes Cluster: RBAC, Pod Hardening, and Runtime Protection ](https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/) (4 months ago)
 - [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (6 months ago)
