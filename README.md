@@ -17,9 +17,9 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 👷 Recent Open Source Activity
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (today)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (6 days ago)
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (6 days ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (1 day ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code.  (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
@@ -44,7 +44,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🚀 Latest Releases I've Contributed To
 
 
-- [microcks/microcks](https://github.com/microcks/microcks) ([1.15.0](https://github.com/microcks/microcks/releases/tag/1.15.0), 1 week ago)
+- [microcks/microcks](https://github.com/microcks/microcks) ([1.15.0](https://github.com/microcks/microcks/releases/tag/1.15.0), 2 weeks ago)
   The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 3 months ago)
   Kubernetes website and documentation repo: 
@@ -60,7 +60,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
-- [Merge main branch into dev-1.37](https://github.com/kubernetes/website/pull/56998) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
+- [Merge main branch into dev-1.37](https://github.com/kubernetes/website/pull/56998) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
 
 ---
 
