@@ -17,7 +17,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 👷 Recent Open Source Activity
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (today)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (1 day ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code.  (1 week ago)
@@ -60,7 +60,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
-- [Canonical school data](https://github.com/orisngdev/adewale-conference-website/pull/6) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (today)
+- [Canonical school data](https://github.com/orisngdev/adewale-conference-website/pull/6) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 day ago)
 - [Merge main branch into dev-1.37](https://github.com/kubernetes/website/pull/56998) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
 ---
