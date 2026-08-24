@@ -17,7 +17,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 👷 Recent Open Source Activity
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (2 days ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (today)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code.  (2 weeks ago)
@@ -60,6 +60,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
+- [feat: single-use invites to register while registration is closed](https://github.com/orisngdev/adewale-conference-website/pull/7) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (today)
 - [Canonical school data](https://github.com/orisngdev/adewale-conference-website/pull/6) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (2 days ago)
 
 ---
