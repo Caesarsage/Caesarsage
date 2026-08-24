@@ -60,6 +60,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
+- [fix: split the waitlist into waiting/invited/registered tabs](https://github.com/orisngdev/adewale-conference-website/pull/8) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (today)
 - [feat: single-use invites to register while registration is closed](https://github.com/orisngdev/adewale-conference-website/pull/7) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (today)
 - [Canonical school data](https://github.com/orisngdev/adewale-conference-website/pull/6) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (2 days ago)
 
