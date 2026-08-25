@@ -18,6 +18,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 
 
 - [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (today)
+- [Caesarsage/cloud-native-engineer-academy](https://github.com/Caesarsage/cloud-native-engineer-academy) - Hands-on Go and Kubernetes learning path with weekly lessons, labs, and portfolio projects covering the Kubernetes API, list/watch, controllers, CRDs, operators, and distributed systems. (today)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code.  (2 weeks ago)
@@ -26,18 +27,17 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 - [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (2 months ago)
 - [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (2 months ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (3 months ago)
-- [Caesarsage/neetcode-submissions](https://github.com/Caesarsage/neetcode-submissions) - My NeetCode.io problem submissions (3 months ago)
 
 ---
 
 ## 🌱 Latest Projects
 
 
+- [Caesarsage/cloud-native-engineer-academy](https://github.com/Caesarsage/cloud-native-engineer-academy) - Hands-on Go and Kubernetes learning path with weekly lessons, labs, and portfolio projects covering the Kubernetes API, list/watch, controllers, CRDs, operators, and distributed systems.
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code. 
 - [Caesarsage/neetcode-submissions](https://github.com/Caesarsage/neetcode-submissions) - My NeetCode.io problem submissions
 - [Caesarsage/microcks-testcontainers-python-demo-flask](https://github.com/Caesarsage/microcks-testcontainers-python-demo-flask) - 
 - [Caesarsage/microcks-testcontainers-python](https://github.com/Caesarsage/microcks-testcontainers-python) - Python library for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instances thanks to containers
-- [Caesarsage/operations-intelligence](https://github.com/Caesarsage/operations-intelligence) - A multi-tenant, BYOK (Bring Your Own Key) intelligence platform that ingests events from communication channels, analyzes them with AI, and publishes actionable insights.
 
 ---
 
