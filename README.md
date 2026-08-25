@@ -17,7 +17,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 👷 Recent Open Source Activity
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (today)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (1 day ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code.  (2 weeks ago)
@@ -52,7 +52,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
   Run Kubernetes locally
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 8 months ago)
   Repo for SIG release
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 8 months ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 9 months ago)
   Simple CLI for interacting with Microcks test APIs
 
 ---
@@ -60,9 +60,9 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
-- [fix: split the waitlist into waiting/invited/registered tabs](https://github.com/orisngdev/adewale-conference-website/pull/8) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (today)
-- [feat: single-use invites to register while registration is closed](https://github.com/orisngdev/adewale-conference-website/pull/7) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (today)
-- [Canonical school data](https://github.com/orisngdev/adewale-conference-website/pull/6) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (2 days ago)
+- [fix: split the waitlist into waiting/invited/registered tabs](https://github.com/orisngdev/adewale-conference-website/pull/8) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 day ago)
+- [feat: single-use invites to register while registration is closed](https://github.com/orisngdev/adewale-conference-website/pull/7) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 day ago)
+- [Canonical school data](https://github.com/orisngdev/adewale-conference-website/pull/6) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (3 days ago)
 
 ---
 
