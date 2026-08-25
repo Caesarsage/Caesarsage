@@ -17,12 +17,12 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 👷 Recent Open Source Activity
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (1 day ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (today)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (1 week ago)
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code.  (2 weeks ago)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
 - [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (2 months ago)
 - [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (2 months ago)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) - Public website resources and templates (3 months ago)
@@ -60,10 +60,10 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
+- [fix: let a declined school be approved, and say why a review skipped a school](https://github.com/orisngdev/adewale-conference-website/pull/9) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (today)
 - [Add a page for generating reference documentation for a release](https://github.com/kubernetes/website/pull/57160) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 - [fix: split the waitlist into waiting/invited/registered tabs](https://github.com/orisngdev/adewale-conference-website/pull/8) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 day ago)
 - [feat: single-use invites to register while registration is closed](https://github.com/orisngdev/adewale-conference-website/pull/7) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 day ago)
-- [Canonical school data](https://github.com/orisngdev/adewale-conference-website/pull/6) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (3 days ago)
 
 ---
 
