@@ -60,6 +60,8 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
+- [docs: refresh CLI guide for 1.0.3](https://github.com/microcks/microcks.io/pull/567) on [microcks/microcks.io](https://github.com/microcks/microcks.io) (today)
+- [docs: document dry-run, output contracts and import-url reference](https://github.com/microcks/microcks-cli/pull/509) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (today)
 - [fix: let a declined school be approved, and say why a review skipped a school](https://github.com/orisngdev/adewale-conference-website/pull/9) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 day ago)
 - [Add a page for generating reference documentation for a release](https://github.com/kubernetes/website/pull/57160) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
 - [fix: split the waitlist into waiting/invited/registered tabs](https://github.com/orisngdev/adewale-conference-website/pull/8) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (2 days ago)
