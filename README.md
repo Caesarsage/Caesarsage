@@ -60,12 +60,16 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
+- [Update the configuration API reference for v1.37](https://github.com/kubernetes/website/pull/57209) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [Update the kubeadm reference for v1.37](https://github.com/kubernetes/website/pull/57208) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [Update the kubectl reference for v1.37.0.](https://github.com/kubernetes/website/pull/57207) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [Update the component reference for v1.37](https://github.com/kubernetes/website/pull/57206) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [Points gen-compdocs at Kubernetes v1.37.0](https://github.com/kubernetes-sigs/reference-docs/pull/471) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
+- [Update the Kubernetes API Markdown reference for v1.37](https://github.com/kubernetes/website/pull/57203) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [Update the Kubernetes API reference for v1.37](https://github.com/kubernetes/website/pull/57202) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [Adds the v1_37 configuration directory for the 1.37 API reference.](https://github.com/kubernetes-sigs/reference-docs/pull/470) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (today)
 - [docs: refresh CLI guide for 1.0.3](https://github.com/microcks/microcks.io/pull/567) on [microcks/microcks.io](https://github.com/microcks/microcks.io) (today)
 - [docs: document dry-run, output contracts and import-url reference](https://github.com/microcks/microcks-cli/pull/509) on [microcks/microcks-cli](https://github.com/microcks/microcks-cli) (today)
-- [fix: let a declined school be approved, and say why a review skipped a school](https://github.com/orisngdev/adewale-conference-website/pull/9) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (1 day ago)
-- [Add a page for generating reference documentation for a release](https://github.com/kubernetes/website/pull/57160) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
-- [fix: split the waitlist into waiting/invited/registered tabs](https://github.com/orisngdev/adewale-conference-website/pull/8) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (2 days ago)
-- [feat: single-use invites to register while registration is closed](https://github.com/orisngdev/adewale-conference-website/pull/7) on [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) (2 days ago)
 
 ---
 
