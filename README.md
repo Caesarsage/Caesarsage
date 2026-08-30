@@ -60,8 +60,8 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
+- [Add contributor event pages for KubeCon NA 2026](https://github.com/kubernetes/contributor-site/pull/875) on [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) (today)
 - [Updates the configuration API reference for 1.37, and fixes two things that kept pages from reaching the website.](https://github.com/kubernetes-sigs/reference-docs/pull/472) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (4 days ago)
-- [Update the configuration API reference for v1.37](https://github.com/kubernetes/website/pull/57209) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
 
 ---
 
