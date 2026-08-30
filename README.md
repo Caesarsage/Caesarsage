@@ -21,8 +21,8 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 - [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (3 days ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (4 days ago)
 - [Caesarsage/cloud-native-engineer-academy](https://github.com/Caesarsage/cloud-native-engineer-academy) - Hands-on Go and Kubernetes learning path with weekly lessons, labs, and portfolio projects covering the Kubernetes API, list/watch, controllers, CRDs, operators, and distributed systems. (5 days ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (2 weeks ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 weeks ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (2 weeks ago)
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code.  (2 weeks ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
 - [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (2 months ago)
@@ -63,10 +63,6 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 - [Updates the configuration API reference for 1.37, and fixes two things that kept pages from reaching the website.](https://github.com/kubernetes-sigs/reference-docs/pull/472) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (4 days ago)
 - [Update the configuration API reference for v1.37](https://github.com/kubernetes/website/pull/57209) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
 - [Update the kubeadm reference for v1.37](https://github.com/kubernetes/website/pull/57208) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
-- [Update the kubectl reference for v1.37.0.](https://github.com/kubernetes/website/pull/57207) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
-- [Update the component reference for v1.37](https://github.com/kubernetes/website/pull/57206) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
-- [Points gen-compdocs at Kubernetes v1.37.0](https://github.com/kubernetes-sigs/reference-docs/pull/471) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (4 days ago)
-- [Update the Kubernetes API Markdown reference for v1.37](https://github.com/kubernetes/website/pull/57203) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
 
 ---
 
