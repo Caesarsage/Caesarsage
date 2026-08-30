@@ -17,7 +17,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 👷 Recent Open Source Activity
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (1 day ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (today)
 - [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (3 days ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (4 days ago)
 - [Caesarsage/cloud-native-engineer-academy](https://github.com/Caesarsage/cloud-native-engineer-academy) - Hands-on Go and Kubernetes learning path with weekly lessons, labs, and portfolio projects covering the Kubernetes API, list/watch, controllers, CRDs, operators, and distributed systems. (5 days ago)
@@ -62,7 +62,6 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 
 - [Updates the configuration API reference for 1.37, and fixes two things that kept pages from reaching the website.](https://github.com/kubernetes-sigs/reference-docs/pull/472) on [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) (4 days ago)
 - [Update the configuration API reference for v1.37](https://github.com/kubernetes/website/pull/57209) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
-- [Update the kubeadm reference for v1.37](https://github.com/kubernetes/website/pull/57208) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
 
 ---
 
