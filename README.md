@@ -44,6 +44,8 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🚀 Latest Releases I've Contributed To
 
 
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.3](https://github.com/microcks/microcks-cli/releases/tag/1.0.3), today)
+  Simple CLI for interacting with Microcks test APIs
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 1 week ago)
   Kubernetes website and documentation repo: 
 - [microcks/microcks](https://github.com/microcks/microcks) ([1.15.0](https://github.com/microcks/microcks/releases/tag/1.15.0), 4 weeks ago)
@@ -52,8 +54,6 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
   Run Kubernetes locally
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 8 months ago)
   Repo for SIG release
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.2](https://github.com/microcks/microcks-cli/releases/tag/1.0.2), 9 months ago)
-  Simple CLI for interacting with Microcks test APIs
 
 ---
 
