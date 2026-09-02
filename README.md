@@ -44,14 +44,14 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🚀 Latest Releases I've Contributed To
 
 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.39.0](https://github.com/kubernetes/minikube/releases/tag/v1.39.0), today)
+  Run Kubernetes locally
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.3](https://github.com/microcks/microcks-cli/releases/tag/1.0.3), today)
   Simple CLI for interacting with Microcks test APIs
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 1 week ago)
   Kubernetes website and documentation repo: 
 - [microcks/microcks](https://github.com/microcks/microcks) ([1.15.0](https://github.com/microcks/microcks/releases/tag/1.15.0), 4 weeks ago)
   The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 6 months ago)
-  Run Kubernetes locally
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 8 months ago)
   Repo for SIG release
 
