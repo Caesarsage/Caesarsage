@@ -17,12 +17,12 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 👷 Recent Open Source Activity
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (2 days ago)
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (5 days ago)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (6 days ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (3 days ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (6 days ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [Caesarsage/cloud-native-engineer-academy](https://github.com/Caesarsage/cloud-native-engineer-academy) - Hands-on Go and Kubernetes learning path with weekly lessons, labs, and portfolio projects covering the Kubernetes API, list/watch, controllers, CRDs, operators, and distributed systems. (1 week ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (2 weeks ago)
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 weeks ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (3 weeks ago)
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) - The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code.  (3 weeks ago)
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) - DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem. (1 month ago)
 - [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) - Code for kubernetes.dev (2 months ago)
@@ -44,9 +44,9 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🚀 Latest Releases I've Contributed To
 
 
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 6 days ago)
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 1 week ago)
   Kubernetes website and documentation repo: 
-- [microcks/microcks](https://github.com/microcks/microcks) ([1.15.0](https://github.com/microcks/microcks/releases/tag/1.15.0), 3 weeks ago)
+- [microcks/microcks](https://github.com/microcks/microcks) ([1.15.0](https://github.com/microcks/microcks/releases/tag/1.15.0), 4 weeks ago)
   The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.38.1](https://github.com/kubernetes/minikube/releases/tag/v1.38.1), 6 months ago)
   Run Kubernetes locally
@@ -60,7 +60,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
-- [Add contributor event pages for KubeCon NA 2026](https://github.com/kubernetes/contributor-site/pull/875) on [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) (2 days ago)
+- [Add contributor event pages for KubeCon NA 2026](https://github.com/kubernetes/contributor-site/pull/875) on [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) (3 days ago)
 
 ---
 
