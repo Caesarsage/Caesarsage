@@ -17,8 +17,8 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 👷 Recent Open Source Activity
 
 
-- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (3 days ago)
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (6 days ago)
+- [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) - The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference. (4 days ago)
+- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs. (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [Caesarsage/cloud-native-engineer-academy](https://github.com/Caesarsage/cloud-native-engineer-academy) - Hands-on Go and Kubernetes learning path with weekly lessons, labs, and portfolio projects covering the Kubernetes API, list/watch, controllers, CRDs, operators, and distributed systems. (1 week ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) - Simple CLI for interacting with Microcks test APIs (3 weeks ago)
@@ -44,9 +44,9 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🚀 Latest Releases I've Contributed To
 
 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.39.0](https://github.com/kubernetes/minikube/releases/tag/v1.39.0), today)
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) ([v1.39.0](https://github.com/kubernetes/minikube/releases/tag/v1.39.0), 1 day ago)
   Run Kubernetes locally
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.3](https://github.com/microcks/microcks-cli/releases/tag/1.0.3), today)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) ([1.0.3](https://github.com/microcks/microcks-cli/releases/tag/1.0.3), 1 day ago)
   Simple CLI for interacting with Microcks test APIs
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 1 week ago)
   Kubernetes website and documentation repo: 
@@ -60,7 +60,7 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
-- [Add contributor event pages for KubeCon NA 2026](https://github.com/kubernetes/contributor-site/pull/875) on [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) (3 days ago)
+- [Add contributor event pages for KubeCon NA 2026](https://github.com/kubernetes/contributor-site/pull/875) on [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) (4 days ago)
 
 ---
 
@@ -92,7 +92,7 @@ I actively contribute to cloud-native projects that improve the developer experi
 
 - [ How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium ](https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/) (1 month ago)
 - [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (3 months ago)
-- [ How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity ](https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/) (4 months ago)
+- [ How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity ](https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/) (5 months ago)
 - [ How to Secure a Kubernetes Cluster: RBAC, Pod Hardening, and Runtime Protection ](https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/) (5 months ago)
 - [ How to Use Different Container Runtimes: Docker, Podman, and Containerd Explained ](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/) (6 months ago)
 
