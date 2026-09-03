@@ -60,7 +60,9 @@ I'm passionate about designing reliable backend systems, modern cloud infrastruc
 ## 🔨 Recent Pull Requests
 
 
-- [Add contributor event pages for KubeCon NA 2026](https://github.com/kubernetes/contributor-site/pull/875) on [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) (4 days ago)
+- [Update milestone applier for k/website dev-1.38 release branch](https://github.com/kubernetes/test-infra/pull/37803) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [Update OWNER_ALIASES for v1.38 release](https://github.com/kubernetes/website/pull/57406) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [Updated hugo.toml for v1.38 release](https://github.com/kubernetes/website/pull/57405) on [kubernetes/website](https://github.com/kubernetes/website) (today)
 
 ---
 
