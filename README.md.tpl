@@ -1,95 +1,33 @@
 # Hi there 👋, I'm Destiny Erhabor
 
-**Cloud Native Software Developer** building scalable systems with **Go, TypeScript, Kubernetes, and AWS**.
-I'm passionate about designing reliable backend systems, modern cloud infrastructure, and contributing to open source. Beyond my day job, I'm an active contributor to the **Kubernetes** and **Microcks** communities, where I help improve developer tooling, documentation, and cloud-native projects.
+**Cloud Native Software Engineer** building scalable systems with Go, TypeScript, Kubernetes and AWS.
+**Docs Lead for the Kubernetes v1.38 release**, Microcks contributor, and author on freeCodeCamp and the Microsoft Educator Blog.
 
----
-
-## 🚀 What I'm currently working on
-
-- ☸️ Contributing to **Kubernetes** (SIG Docs, Release, Testing, CLI, API Machinery)
-- 🧩 Contributing to **Microcks** (CLI, TestContainers & Developer Experience)
-- 🏗️ Building scalable backend systems and cloud infrastructure
-- ✍️ Writing technical articles on Kubernetes, Go, Docker, AWS, and distributed systems
-
----
-
-## 👷 Recent Open Source Activity
-
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
----
-
-## 🌱 Latest Projects
-
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
----
-
-## 🚀 Latest Releases I've Contributed To
-
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
-  {{.Description}}
-{{- end}}
-
----
-
-## 🔨 Recent Pull Requests
-
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+**Open to:** Software Engineering · CloudNative · Developer Relations · Open Source roles
 
 ---
 
 ## ❤️ Open Source
 
-I actively contribute to cloud-native projects that improve the developer experience.
+- ☸️ **Kubernetes** — Docs Lead for v1.38 · SIG Docs, SIG Release, API Machinery, Testing, CLI · reference-docs automation
+- 🧩 **Microcks** — CLI, TestContainers, [VS Code extension](https://github.com/Caesarsage/microcks-vscode), developer experience
 
-### ☸️ Kubernetes
+## 👷 Recent Activity
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{if .Repo.Description}} — {{.Repo.Description}}{{end}}
+{{- end}}
 
-- SIG Docs
-- API Machinery
-- Documentation & Tooling
-- Code Reviews
-- Reference Documentation Automation
-
-### 🧩 Microcks
-
-- CLI Development
-- TestContainers
-- Documentation
-- Developer Experience
-
----
+## 🚀 Latest Releases I've Contributed To
+{{range recentReleases 3}}
+- [{{.Name}}]({{.URL}}) — [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
+{{- end}}
 
 ## ✍️ Latest Articles
-
-### FreeCodeCamp
-
-{{range rss "https://www.freecodecamp.org/news/author/CaesarSage/rss" 5}}
+{{range rss "https://www.freecodecamp.org/news/author/CaesarSage/rss" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
-
-### LogRocket
-
-{{range rss "https://blog.logrocket.com/author/destinyerhabor/feed/" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-### Microsoft Educator Blog
-
-- [How to Deploy and Monitor Web Applications on Azure App Service](https://techcommunity.microsoft.com/blog/educatordeveloperblog/how-to-deploy-and-monitor-web-applications-on-azure-app-service/3960676)
-- [Empowering Startups: An Introductory Guide to Databricks](https://techcommunity.microsoft.com/blog/educatordeveloperblog/empowering-startups-the-introductory-guide-to-databricks-for-entrepreneurs-data-/3934092)
-
-### Hashnode
-
-- https://caesarsage.hashnode.dev
+- On the **Microsoft Educator Blog**: [Deploy and Monitor Web Apps on Azure App Service](https://techcommunity.microsoft.com/blog/educatordeveloperblog/how-to-deploy-and-monitor-web-applications-on-azure-app-service/3960676) · [An Introductory Guide to Databricks](https://techcommunity.microsoft.com/blog/educatordeveloperblog/empowering-startups-the-introductory-guide-to-databricks-for-entrepreneurs-data-/3934092)
+- More on [freeCodeCamp](https://www.freecodecamp.org/news/author/CaesarSage/), [LogRocket](https://blog.logrocket.com/author/destinyerhabor/) and [Hashnode](https://caesarsage.hashnode.dev)
 
 ---
 
@@ -97,38 +35,14 @@ I actively contribute to cloud-native projects that improve the developer experi
 
 | Category | Technologies |
 |-----------|--------------|
-| **Languages** | Go • TypeScript • JavaScript • Python • Java |
-| **Backend** | NestJS • Node.js • Spring Boot • REST APIs • gRPC |
+| **Languages** | Go • TypeScript • Python • Java |
 | **Cloud & Platform** | Kubernetes • Docker • AWS • Azure • Terraform • Helm |
-| **CI/CD** | GitHub Actions • GitLab CI • Jenkins • CircleCI |
-| **Observability** | Prometheus • Grafana • Loki • OpenTelemetry |
-| **Databases** | PostgreSQL • MySQL • MongoDB • Redis |
-| **Messaging** | Kafka • RabbitMQ |
-| **Testing** | TestContainers • JUnit • Jest • Postman |
-| **Developer Tools** | Git • Linux • VS Code • IntelliJ IDEA |
-
----
-
-## 📚 Currently Learning
-
-- Advanced Backend Engineering
-- Distributed Systems
-- Kubernetes API Machinery
-- Platform Engineering
-- Data Structures & Algorithms
-- System Design
-
----
+| **Backend** | NestJS • Node.js • Spring Boot • gRPC • REST APIs |
+| **CI/CD & Observability** | GitHub Actions • GitLab CI • Jenkins • Prometheus • Grafana • OpenTelemetry |
+| **Data & Messaging** | PostgreSQL • MongoDB • Redis • Kafka • RabbitMQ |
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/destiny-erhabor/
-- 🐦 X (Twitter): https://x.com/caesar_sage
-- 🌐 Hashnode: https://caesarsage.hashnode.dev
-- 📧 Email: destinyerhabor6@gmail.com
-
----
-
-> *I enjoy building software that scales, contributing to open source, and sharing knowledge with the developer community.*
+[LinkedIn](https://www.linkedin.com/in/destiny-erhabor/) · [Hashnode](https://caesarsage.hashnode.dev) · [Email](mailto:destinyerhabor6@gmail.com)
 
 <!-- comments will be preserved -->
