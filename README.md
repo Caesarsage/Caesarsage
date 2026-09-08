@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Destiny Erhabor
 
 **Cloud Native Software Engineer** building scalable systems with Go, TypeScript, Kubernetes and AWS.
-**Docs Lead for the Kubernetes v1.38 release**, Microcks contributor, and author on freeCodeCamp and the Microsoft Educator Blog.
+**CNCF Ambassador, Docs Lead for the Kubernetes v1.38 release**, Microcks contributor, and author on freeCodeCamp and the Microsoft Educator Blog.
 
 **Open to:** Software Engineering · CloudNative · Developer Relations · Open Source roles
 
