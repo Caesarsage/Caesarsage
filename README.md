@@ -27,9 +27,9 @@
 
 ## 🚀 Latest Releases I've Contributed To
 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) — [v1.39.0](https://github.com/kubernetes/minikube/releases/tag/v1.39.0) (6 days ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) — [1.0.3](https://github.com/microcks/microcks-cli/releases/tag/1.0.3) (6 days ago)
-- [kubernetes/website](https://github.com/kubernetes/website) — [snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37) (1 week ago)
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) — [v1.39.0](https://github.com/kubernetes/minikube/releases/tag/v1.39.0) (1 week ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) — [1.0.3](https://github.com/microcks/microcks-cli/releases/tag/1.0.3) (1 week ago)
+- [kubernetes/website](https://github.com/kubernetes/website) — [snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37) (2 weeks ago)
 
 ## ✍️ Latest Articles
 
