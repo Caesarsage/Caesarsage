@@ -18,7 +18,7 @@
 - 🧩 **Microcks** — CLI, TestContainers, [VS Code extension](https://github.com/Caesarsage/microcks-vscode), developer experience
 
 ## 👷 Recent Activity
-{{range recentContributions 5}}
+{{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{if .Repo.Description}} — {{.Repo.Description}}{{end}}
 {{- end}}
 
