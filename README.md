@@ -23,12 +23,12 @@
 - [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) — The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference.
 - [kubernetes/website](https://github.com/kubernetes/website) — Kubernetes website and documentation repo: 
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) — Repo for SIG release
+- [kubernetes/org](https://github.com/kubernetes/org) — Meta configuration for Kubernetes Github Org
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) — The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code. 
 - [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) — Tools to build reference documentation for Kubernetes APIs and CLIs.
 - [Caesarsage/cloud-native-engineer-academy](https://github.com/Caesarsage/cloud-native-engineer-academy) — Hands-on Go and Kubernetes learning path with weekly lessons, labs, and portfolio projects covering the Kubernetes API, list/watch, controllers, CRDs, operators, and distributed systems.
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) — Simple CLI for interacting with Microcks test APIs
 - [Caesarsage/DevOps-Cloud-Projects](https://github.com/Caesarsage/DevOps-Cloud-Projects) — DevOps Projects is a curated collection of hands-on projects designed to help engineers learn and grow through real-world DevOps challenges. Inspired by platforms like CloudAcademy, Darey.io, and more, this open-source repository provides practical, end-to-end labs across various tools and technologies in the DevOps ecosystem.
-- [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) — Code for kubernetes.dev
 
 ## 🚀 Latest Releases I've Contributed To
 
