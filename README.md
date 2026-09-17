@@ -23,8 +23,8 @@
 - [Caesarsage/v1.38-docs-onboarding](https://github.com/Caesarsage/v1.38-docs-onboarding)
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) — Public website resources and templates
 - [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) — The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference.
-- [kubernetes/website](https://github.com/kubernetes/website) — Kubernetes website and documentation repo: 
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) — Repo for SIG release
+- [kubernetes/website](https://github.com/kubernetes/website) — Kubernetes website and documentation repo: 
 - [kubernetes/org](https://github.com/kubernetes/org) — Meta configuration for Kubernetes Github Org
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) — The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code. 
 - [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) — Code for kubernetes.dev
