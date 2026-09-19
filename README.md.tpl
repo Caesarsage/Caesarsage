@@ -48,6 +48,6 @@
 
 ## 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/destiny-erhabor/) · [Hashnode](https://caesarsage.hashnode.dev) · [Email](mailto:destinyerhabor6@gmail.com)
+[Website](https://destinyerhabor.com) · [LinkedIn](https://www.linkedin.com/in/destiny-erhabor/) · [Hashnode](https://caesarsage.hashnode.dev) · [Email](mailto:destinyerhabor6@gmail.com)
 
 <!-- comments will be preserved -->
