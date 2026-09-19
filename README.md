@@ -20,15 +20,15 @@
 ## 👷 Recent Activity
 
 - [Caesarsage/destiny-erhabor-site](https://github.com/Caesarsage/destiny-erhabor-site) — Personal site — Astro, deployed on Cloudflare Pages
-- [microcks/microcks.io](https://github.com/microcks/microcks.io) — Public website resources and templates
+- [Caesarsage/microcks-contract-drift-demo](https://github.com/Caesarsage/microcks-contract-drift-demo) — Microcks contract tests on every pull request, annotated onto the OpenAPI file
 - [Caesarsage/v1.38-docs-onboarding](https://github.com/Caesarsage/v1.38-docs-onboarding) — SIG Docs release team 1.38 onboarding quide
+- [microcks/microcks.io](https://github.com/microcks/microcks.io) — Public website resources and templates
 - [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) — The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference.
 - [kubernetes/website](https://github.com/kubernetes/website) — Kubernetes website and documentation repo: 
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) — Repo for SIG release
 - [kubernetes/org](https://github.com/kubernetes/org) — Meta configuration for Kubernetes Github Org
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) — The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code. 
 - [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) — Code for kubernetes.dev
-- [kubernetes-sigs/reference-docs](https://github.com/kubernetes-sigs/reference-docs) — Tools to build reference documentation for Kubernetes APIs and CLIs.
 
 ## 🚀 Latest Releases I've Contributed To
 
@@ -58,6 +58,6 @@
 
 ## 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/destiny-erhabor/) · [Hashnode](https://caesarsage.hashnode.dev) · [Email](mailto:destinyerhabor6@gmail.com)
+[Website](https://destinyerhabor.com) · [LinkedIn](https://www.linkedin.com/in/destiny-erhabor/) · [Hashnode](https://caesarsage.hashnode.dev) · [Email](mailto:hello@destinyerhabor.com)
 
 
