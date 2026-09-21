@@ -19,12 +19,12 @@
 
 ## 👷 Recent Activity
 
-- [Caesarsage/microcks-contract-drift-demo](https://github.com/Caesarsage/microcks-contract-drift-demo) — Microcks contract tests on every pull request, annotated onto the OpenAPI file
-- [Caesarsage/destiny-erhabor-site](https://github.com/Caesarsage/destiny-erhabor-site) — Personal site — Astro, deployed on Cloudflare Pages
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) — The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code. 
 - [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) — The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference.
-- [microcks/microcks.io](https://github.com/microcks/microcks.io) — Public website resources and templates
+- [Caesarsage/destiny-erhabor-site](https://github.com/Caesarsage/destiny-erhabor-site) — Personal site — Astro, deployed on Cloudflare Pages
+- [Caesarsage/microcks-contract-drift-demo](https://github.com/Caesarsage/microcks-contract-drift-demo) — Microcks contract tests on every pull request, annotated onto the OpenAPI file
 - [Caesarsage/v1.38-docs-onboarding](https://github.com/Caesarsage/v1.38-docs-onboarding) — SIG Docs release team 1.38 onboarding quide
+- [microcks/microcks.io](https://github.com/microcks/microcks.io) — Public website resources and templates
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) — Repo for SIG release
 - [kubernetes/website](https://github.com/kubernetes/website) — Kubernetes website and documentation repo: 
 - [kubernetes/org](https://github.com/kubernetes/org) — Meta configuration for Kubernetes Github Org
