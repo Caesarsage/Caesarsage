@@ -34,7 +34,7 @@
 
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) — [v1.39.0](https://github.com/kubernetes/minikube/releases/tag/v1.39.0) (3 weeks ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) — [1.0.3](https://github.com/microcks/microcks-cli/releases/tag/1.0.3) (3 weeks ago)
-- [kubernetes/website](https://github.com/kubernetes/website) — [snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37) (4 weeks ago)
+- [kubernetes/website](https://github.com/kubernetes/website) — [snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37) (1 month ago)
 
 ## ✍️ Latest Articles
 
