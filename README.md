@@ -19,11 +19,11 @@
 
 ## 👷 Recent Activity
 
+- [Caesarsage/v1.38-docs-onboarding](https://github.com/Caesarsage/v1.38-docs-onboarding) — SIG Docs release team 1.38 onboarding quide
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) — The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code. 
 - [orisngdev/adewale-conference-website](https://github.com/orisngdev/adewale-conference-website) — The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference.
 - [Caesarsage/destiny-erhabor-site](https://github.com/Caesarsage/destiny-erhabor-site) — Personal site — Astro, deployed on Cloudflare Pages
 - [Caesarsage/microcks-contract-drift-demo](https://github.com/Caesarsage/microcks-contract-drift-demo) — Microcks contract tests on every pull request, annotated onto the OpenAPI file
-- [Caesarsage/v1.38-docs-onboarding](https://github.com/Caesarsage/v1.38-docs-onboarding) — SIG Docs release team 1.38 onboarding quide
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) — Public website resources and templates
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) — Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites
 - [kubernetes/website](https://github.com/kubernetes/website) — Kubernetes website and documentation repo: 
@@ -32,8 +32,8 @@
 
 ## 🚀 Latest Releases I've Contributed To
 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) — [v1.39.0](https://github.com/kubernetes/minikube/releases/tag/v1.39.0) (3 weeks ago)
-- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) — [1.0.3](https://github.com/microcks/microcks-cli/releases/tag/1.0.3) (3 weeks ago)
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) — [v1.39.0](https://github.com/kubernetes/minikube/releases/tag/v1.39.0) (4 weeks ago)
+- [microcks/microcks-cli](https://github.com/microcks/microcks-cli) — [1.0.3](https://github.com/microcks/microcks-cli/releases/tag/1.0.3) (4 weeks ago)
 - [kubernetes/website](https://github.com/kubernetes/website) — [snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37) (1 month ago)
 
 ## ✍️ Latest Articles
