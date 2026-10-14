@@ -26,8 +26,8 @@
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) — Repo for SIG release
 - [Caesarsage/v1.38-docs-onboarding](https://github.com/Caesarsage/v1.38-docs-onboarding) — SIG Docs release team 1.38 onboarding quide
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) — The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code. 
-- [Caesarsage/microcks-contract-drift-demo](https://github.com/Caesarsage/microcks-contract-drift-demo) — Microcks contract tests on every pull request, annotated onto the OpenAPI file
 - [cncf/people](https://github.com/cncf/people) — Stores the data that will populate the various people listings on cncf.io
+- [Caesarsage/microcks-contract-drift-demo](https://github.com/Caesarsage/microcks-contract-drift-demo) — Microcks contract tests on every pull request, annotated onto the OpenAPI file
 - [microcks/microcks.io](https://github.com/microcks/microcks.io) — Public website resources and templates
 
 ## 🚀 Latest Releases I've Contributed To
