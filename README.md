@@ -20,6 +20,7 @@
 ## 👷 Recent Activity
 
 - [Adewale-foundation/adewale-conference-website](https://github.com/Adewale-foundation/adewale-conference-website) — The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference.
+- [kubernetes/website](https://github.com/kubernetes/website) — Kubernetes website and documentation repo: 
 - [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) — Code for kubernetes.dev
 - [Caesarsage/destiny-erhabor-site](https://github.com/Caesarsage/destiny-erhabor-site) — Personal site — Astro, deployed on Cloudflare Pages
 - [Caesarsage/neetcode-submissions](https://github.com/Caesarsage/neetcode-submissions) — My NeetCode.io problem submissions
@@ -28,7 +29,6 @@
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) — The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code. 
 - [cncf/people](https://github.com/cncf/people) — Stores the data that will populate the various people listings on cncf.io
 - [Caesarsage/microcks-contract-drift-demo](https://github.com/Caesarsage/microcks-contract-drift-demo) — Microcks contract tests on every pull request, annotated onto the OpenAPI file
-- [microcks/microcks.io](https://github.com/microcks/microcks.io) — Public website resources and templates
 
 ## 🚀 Latest Releases I've Contributed To
 
