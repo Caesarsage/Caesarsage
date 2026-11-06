@@ -32,7 +32,7 @@
 
 ## 🚀 Latest Releases I've Contributed To
 
-- [microcks/microcks](https://github.com/microcks/microcks) — [1.16.0-rc1](https://github.com/microcks/microcks/releases/tag/1.16.0-rc1) (2 days ago)
+- [microcks/microcks](https://github.com/microcks/microcks) — [1.16.0-rc1](https://github.com/microcks/microcks/releases/tag/1.16.0-rc1) (3 days ago)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) — [v1.39.0](https://github.com/kubernetes/minikube/releases/tag/v1.39.0) (2 months ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) — [1.0.3](https://github.com/microcks/microcks-cli/releases/tag/1.0.3) (2 months ago)
 
