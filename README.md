@@ -19,6 +19,7 @@
 
 ## 👷 Recent Activity
 
+- [Caesarsage/v1.38-docs-onboarding](https://github.com/Caesarsage/v1.38-docs-onboarding) — SIG Docs release team 1.38 onboarding quide
 - [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site) — Code for kubernetes.dev
 - [Adewale-foundation/adewale-conference-website](https://github.com/Adewale-foundation/adewale-conference-website) — The official website for the Adewale Students Conference (ASC), Ogun State&#39;s leading student innovation and STEM conference.
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) — Repo for SIG release
@@ -26,7 +27,6 @@
 - [Caesarsage/destiny-erhabor-site](https://github.com/Caesarsage/destiny-erhabor-site) — Personal site — Astro, deployed on Cloudflare Pages
 - [kubernetes/website](https://github.com/kubernetes/website) — Kubernetes website and documentation repo: 
 - [Caesarsage/neetcode-submissions](https://github.com/Caesarsage/neetcode-submissions) — My NeetCode.io problem submissions
-- [Caesarsage/v1.38-docs-onboarding](https://github.com/Caesarsage/v1.38-docs-onboarding) — SIG Docs release team 1.38 onboarding quide
 - [Caesarsage/microcks-vscode](https://github.com/Caesarsage/microcks-vscode) — The Microcks VS Code Extension brings the Microcks API mocking and contract testing workflow into VS Code. 
 - [Caesarsage/microcks-contract-drift-demo](https://github.com/Caesarsage/microcks-contract-drift-demo) — Microcks contract tests on every pull request, annotated onto the OpenAPI file
 
