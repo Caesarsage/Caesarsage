@@ -32,14 +32,14 @@
 
 ## 🚀 Latest Releases I've Contributed To
 
-- [microcks/microcks](https://github.com/microcks/microcks) — [1.16.0](https://github.com/microcks/microcks/releases/tag/1.16.0) (2 days ago)
+- [microcks/microcks](https://github.com/microcks/microcks) — [1.16.0](https://github.com/microcks/microcks/releases/tag/1.16.0) (3 days ago)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) — [v1.39.0](https://github.com/kubernetes/minikube/releases/tag/v1.39.0) (2 months ago)
 - [microcks/microcks-cli](https://github.com/microcks/microcks-cli) — [1.0.3](https://github.com/microcks/microcks-cli/releases/tag/1.0.3) (2 months ago)
 
 ## ✍️ Latest Articles
 
 - [ How to Implement Zero-Trust Workload Identity in Kubernetes with SPIFFE, SPIRE, and Cilium ](https://www.freecodecamp.org/news/implement-zero-trust-workload-identity-in-kubernetes-with-spiffe-spire-and-cilium/) (4 months ago)
-- [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (5 months ago)
+- [ How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS ](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/) (6 months ago)
 - [ How to Authenticate Users in Kubernetes: x509 Certificates, OIDC, and Cloud Identity ](https://www.freecodecamp.org/news/how-to-authenticate-users-in-kubernetes-x509-certificates-oidc-and-cloud-identity/) (7 months ago)
 - On the **Microsoft Educator Blog**: [Deploy and Monitor Web Apps on Azure App Service](https://techcommunity.microsoft.com/blog/educatordeveloperblog/how-to-deploy-and-monitor-web-applications-on-azure-app-service/3960676) · [An Introductory Guide to Databricks](https://techcommunity.microsoft.com/blog/educatordeveloperblog/empowering-startups-the-introductory-guide-to-databricks-for-entrepreneurs-data-/3934092)
 - More on [freeCodeCamp](https://www.freecodecamp.org/news/author/CaesarSage/), [LogRocket](https://blog.logrocket.com/author/destinyerhabor/) and [Hashnode](https://caesarsage.hashnode.dev)
