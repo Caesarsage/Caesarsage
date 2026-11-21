@@ -56,14 +56,6 @@
 | **CI/CD & Observability** | GitHub Actions • GitLab CI • Jenkins • Prometheus • Grafana • OpenTelemetry |
 | **Data & Messaging** | PostgreSQL • MongoDB • Redis • Kafka • RabbitMQ |
 
-<a href="https://certdirectory.io/profile/caesarsage?utm_source=github&utm_medium=readme">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/caesarsage.svg?style=card&theme=dark">
-    <img alt="Erhabor Destiny on CertDirectory" src="https://certdirectory.io/badge/caesarsage.svg?style=card">
-  </picture>
-</a>
-
-
 ## 🤝 Let's Connect
 
 [Website](https://destinyerhabor.com) · [LinkedIn](https://www.linkedin.com/in/destiny-erhabor/) · [Hashnode](https://caesarsage.hashnode.dev) · [Email](mailto:hello@destinyerhabor.com)
